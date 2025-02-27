@@ -1,0 +1,5 @@
+exceptions
+selenium
+webdriver_manager
+tqdm
+fake_useragent
