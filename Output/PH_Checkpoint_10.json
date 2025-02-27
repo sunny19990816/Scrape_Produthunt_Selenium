@@ -3952,5 +3952,2285 @@
     "overview": "This plugin allows you to effortlessly pull text and images from an Airtable database and inject them straight into your Figma components. Build a single component, and map the Airtable data fields to the right layers and choose your layout. It's that easy!",
     "type": "Databases and backend frameworks,Figma Plugins,Automation tools",
     "url": "https://www.producthunt.com/products/airtable-to-figma"
+  },
+  {
+    "name": "Infoscope",
+    "overview": "Enjoy looking at the most advanced Google Search Tool. You can use Infoscope to customize and visualize your searches in Google, each search is represented by a set of nodes, each representing a specific operator!! https://www.frankemiro.com/infoscope",
+    "type": "Search,Chrome Extensions,Web browsers",
+    "url": "https://www.producthunt.com/products/infoscope"
+  },
+  {
+    "name": "Studyum 3D icons",
+    "overview": "Studyum is a pack of custom 3D icons suitable for any fintech product. Create stunning, unique projects with these hand crafted icons, easily editable in Figma, and fully customizable in Cinema 4D. 3D icons rock!",
+    "type": "Icon sets,Figma Templates,Design resources",
+    "url": "https://www.producthunt.com/products/studyum-3d-icons"
+  },
+  {
+    "name": "Getting Things Done Notion Template",
+    "overview": "GTD Notion template to increase your productivity and gain visibility across all your current and future tasks - Based on the Getting Things Done Book by David Allen",
+    "type": "Notion Templates",
+    "url": "https://www.producthunt.com/products/getting-things-done-notion-template"
+  },
+  {
+    "name": "ChatGPT Prompts for Your Next Launch",
+    "overview": "Use ChatGPT prompts to make your product launch stand out. Templates for AI prompts for a successful launch.",
+    "type": "ChatGPT Prompts,Marketing automation platforms,Product add-ons",
+    "url": "https://www.producthunt.com/products/chatgpt-prompts-for-your-next-launch"
+  },
+  {
+    "name": "Ultima",
+    "overview": "Large free bundle of 30 packs filled with 750+ illustrations in a variety of styles, topics, and eternal areas of use will be suitable for any design. Get the full collection right in Figma.",
+    "type": "Design resources,Figma Templates,Design & Creative",
+    "url": "https://www.producthunt.com/products/ultima"
+  },
+  {
+    "name": "Know Your Worth",
+    "overview": "Know how much people are getting paid. This product is based on #KnowYourWorth tag in Twitter.",
+    "type": "Twitter apps",
+    "url": "https://www.producthunt.com/products/know-your-worth"
+  },
+  {
+    "name": "Samsung US",
+    "overview": "Samsung Electronics is relentless in our efforts to deliver innovative products and experiences that maximize user convenience and make the lives of consumers better. In 2016, we saw an increase in sales throughout Asia in addition to revenue growth across premium appliance markets in North America, Europe, and Korea",
+    "type": "Twitter apps,Social Networking,Marketing & Sales",
+    "url": "https://www.producthunt.com/products/samsung-us"
+  },
+  {
+    "name": "Macaw for Twitter",
+    "overview": "Let the people you follow do the hard work of curating the best of Twitter. If you don\u2019t use Twitter much, Macaw helps you catch up on what you missed. If you\u2018re a power user, it finds new users to follow or tweets you wouldn\u2019t have seen otherwise. Free download for iOS, just sign in with Twitter! (And send @zmh any questions/comments!)",
+    "type": "Twitter apps,Social Networking,Mobile editing apps",
+    "url": "https://www.producthunt.com/products/macaw-for-twitter"
+  },
+  {
+    "name": "Circle to Search",
+    "overview": "It's an extension that let you select what you\u2019re curious about and get more info with a simple circling. And you can ask the built-in AI assistant for more insights. It\u2019s a new way to search anything in browser without leaving the page or copy-paste.",
+    "type": "Search,Chrome Extensions,AI Chatbots",
+    "url": "https://www.producthunt.com/products/circle-to-search"
+  },
+  {
+    "name": "Rocky Rabbit",
+    "overview": "Explore Rocky Rabbit on Telegram! Dive into tap-to-earn action, train for battles, and join a vibrant community. Play directly in your chats\u2014no download needed. Start your adventure today!",
+    "type": "Games,Crypto tools,Web3,Product add-ons,Social & Community",
+    "url": "https://www.producthunt.com/products/rocky-rabbit"
+  },
+  {
+    "name": "Christmas Design Kit",
+    "overview": "176 Customizable Figma Templates special for Product Hunt, Twitter, Facebook, Instagram and IndieHackers. Increase your engagement, celebrate the main event of the year together with your audience. Merry Christmas!",
+    "type": "Figma Templates",
+    "url": "https://www.producthunt.com/products/christmas-design-kit"
+  },
+  {
+    "name": "Twitter Bots",
+    "overview": "Create Twitter bots that can auto-reply, retweet tweets, send DMs, follow users, add users to Twitter list, and more all without writing a single line of code.",
+    "type": "Twitter apps,No-code platforms,Automation tools",
+    "url": "https://www.producthunt.com/products/twitter-bots"
+  },
+  {
+    "name": "Statsbot",
+    "overview": "Statsbot is helping you take control of your raw data, providing an all-in-one analysis tool for engineers and non-tech folks alike. Statsbot\u2019s simple dashboards, seamless Slack integration, and premiere customer service are helping teams everywhere get more out of their data.",
+    "type": "Data analysis tools,Team collaboration software,Slack apps",
+    "url": "https://www.producthunt.com/products/statsbot"
+  },
+  {
+    "name": "Figma.Cool",
+    "overview": "Our creation is Figma.Cool. Figma.Cool is an organization dedicated to promoting Figma in China. We have completed the localization of Figma. We launched the Figma.Cool resource station on June 28 this year, and we have continued to develop a number of efficiency-improving resources. Figma plug-in.",
+    "type": "Figma Plugins,Community management,Design resources",
+    "url": "https://www.producthunt.com/products/figma-cool"
+  },
+  {
+    "name": "Shopables.co",
+    "overview": "Shopables now allows people to create embeddable shoppable sliders and images within seconds. It gives you another way to monetize your images.",
+    "type": "Ecommerce platforms,Shopping,Product add-ons",
+    "url": "https://www.producthunt.com/products/shopables-co"
+  },
+  {
+    "name": "Itsycal",
+    "overview": "Itsycal is a tiny menu bar calendar. If you want, it will display your events as a companion to the Mac Calendar app. Itsycal has Dark Mode, ISO week numbers, a customizable system clock replacement, and more.",
+    "type": "Calendar apps,Scheduling software,Product add-ons",
+    "url": "https://www.producthunt.com/products/itsycal"
+  },
+  {
+    "name": "Helium",
+    "overview": "Multitask with ease. Helium is a floating browser window that allows you to watch media while you work. Your content will never fall behind your other windows even as you switch tasks.",
+    "type": "Web browsers,Work & Productivity,Chrome Extensions",
+    "url": "https://www.producthunt.com/products/helium-3"
+  },
+  {
+    "name": "Showgoers",
+    "overview": "Showgoers is the browser extension that will keep the good habits of watching a movie with your friends or with your loved ones over a distance. If you have a valid Netflix account and Showgoers extension you can create your movie party with a synchronized movie and chat!",
+    "type": "Chrome Extensions,Video and Voice calling,Messaging apps",
+    "url": "https://www.producthunt.com/products/showgoers"
+  },
+  {
+    "name": "Talla the Task Assistant",
+    "overview": "",
+    "type": "Team collaboration software,Slack apps,Automation tools",
+    "url": "https://www.producthunt.com/products/talla-the-task-assistant"
+  },
+  {
+    "name": "extensions.af",
+    "overview": "",
+    "type": "Chrome Extensions",
+    "url": "https://www.producthunt.com/products/extensions-af"
+  },
+  {
+    "name": "PageSpeed Ninja",
+    "overview": "PageSpeed Ninja is an all-in-one WordPress performance plugin helping you to fix WP page speed issues easily with one click to get as close to 100/100 as possible. PageSpeed Ninja includes numerous advanced optimization features like above-the-fold critical CSS generation, fixing render blocking assets, browser & server-side caching and much more.",
+    "type": "Wordpress Plugins",
+    "url": "https://www.producthunt.com/products/pagespeed-ninja"
+  },
+  {
+    "name": "Design Systems",
+    "overview": "Figma's hub for the broader design community to learn about and engage in discussion around the craft of building design systems.",
+    "type": "Figma Plugins,Design resources,Design & Creative",
+    "url": "https://www.producthunt.com/products/design-systems"
+  },
+  {
+    "name": "Suttna",
+    "overview": "Suttna is Slack extensions that can automate your team's daily status reporting using checkins. You can set it up on any channel conversation and it will take care of the rest. Suttna is really flexible, you can customize what questions it's going to ask, the time you want it to ask them and the days that better fit your workflow.",
+    "type": "Slack apps,Automation tools,Team collaboration software",
+    "url": "https://www.producthunt.com/products/suttna"
+  },
+  {
+    "name": "Help a Scientist",
+    "overview": "Help a Scientist is a chrome extension that helps you discover citizen science opportunities from your browser tab. Your contribution may help real researchers obtain real results!",
+    "type": "Chrome Extensions",
+    "url": "https://www.producthunt.com/products/help-a-scientist"
+  },
+  {
+    "name": "Bookmark It",
+    "overview": "Hey PH, I'm Miguel a Software Developer and I want to show you my first completed side project that I've been working in the past days. It is an extension that lets you create awesome bookmarks on Youtube videos while showing you the best part of videos. Hope you like it <3, all comments are welcome!",
+    "type": "Chrome Extensions,Note and writing apps,Video and Voice calling",
+    "url": "https://www.producthunt.com/products/bookmark-it"
+  },
+  {
+    "name": "Reggy",
+    "overview": "A Chrome extension that speeds up registrations to unimportant websites. Using a random identity generator and a form filler, Reggy helps bypass registration forms to any website. Please only use this for sites you don't want to give your real details to, in order to avoid spam.",
+    "type": "Chrome Extensions,Automation tools,Safety and Privacy platforms",
+    "url": "https://www.producthunt.com/products/reggy"
+  },
+  {
+    "name": "Alpaca",
+    "overview": "Alpaca converts URL into URI that will allow to bypass the browser",
+    "type": "Slack apps",
+    "url": "https://www.producthunt.com/products/alpaca-slack-bot"
+  },
+  {
+    "name": "Clippy",
+    "overview": "Yes, Clippy from Microsoft Office is back \u2014 on macOS! Clippy can be moved around (drag with mouse) and be animated (right-click).",
+    "type": "Product add-ons,Work & Productivity",
+    "url": "https://www.producthunt.com/products/clippy-4"
+  },
+  {
+    "name": "Easometric Figma Plugin",
+    "overview": "With Easometric it is really easy to create isometric layers. This plugin using SSR30\u00b0, which is the most popular and flexible method of creating isometric artworks. Simple as that you can either quick apply a top, left or right perspective or using the modal.",
+    "type": "Figma Plugins",
+    "url": "https://www.producthunt.com/products/easometric-figma-plugin"
+  },
+  {
+    "name": "Figma Color Search",
+    "overview": "Color Search gives you up to 5 colors for literally any search query. Choose your favorite and add it to your local styles in seconds!",
+    "type": "Figma Plugins,Design resources,Interface design tools",
+    "url": "https://www.producthunt.com/products/figma-color-search"
+  },
+  {
+    "name": "Focused Task",
+    "overview": "Features: * Focus on a single task * Shortcut for everything * Menu-bar app * Organize your tasks with todos, bookmarks and notes * Drag & Drop file as bookmarks * Open-sourced written with Electron, React, Redux",
+    "type": "Work & Productivity,Note and writing apps,Chrome Extensions",
+    "url": "https://www.producthunt.com/products/focused-task"
+  },
+  {
+    "name": "Dimensions for Slack",
+    "overview": "\u26a1\ufe0fDimensions is the best way to keep track of product and customer feedback in Slack - for free! \u26a1\ufe0f We all get tons of feedback in slack but it's often half-baked. Dimensions helps teams capture the right context to make better decisions collaboratively!",
+    "type": "Slack apps",
+    "url": "https://www.producthunt.com/products/dimensions-for-slack"
+  },
+  {
+    "name": "Channel Tools for Slack",
+    "overview": "With Channel Tools for Slack, you can bulk invite all members of a Slack team, or a channel, to another channel. It also helps you quickly export all members from a channel. It comes with handy utility commands for clearing the screen and picking a random user",
+    "type": "Slack apps",
+    "url": "https://www.producthunt.com/products/channel-tools-for-slack"
+  },
+  {
+    "name": "Floppy disk for Slack",
+    "overview": "Floppy Disk is a free slack app to save your favorite Slack threads to Notion, Airtable or Coda with one click! With some retro vibes. Floppy stores the entire contents of a thread so your community or team can reference quality threads in the future.",
+    "type": "Slack apps",
+    "url": "https://www.producthunt.com/products/floppy-disk-for-slack"
+  },
+  {
+    "name": "HEIC Image Import Plugin for Figma",
+    "overview": "Import one or multipleHEIC images into Figma as PNG, JPEG or GIF to use on your canvas.",
+    "type": "Figma Plugins",
+    "url": "https://www.producthunt.com/products/heic-image-import-plugin-for-figma"
+  },
+  {
+    "name": "Sync2Sheets",
+    "overview": "\ud83d\udd04 Keep your Notion databases automatically in sync with Google Sheets \u2211 Use Sheets formulas to send data to Notion \ud83d\uddd3 Schedule page creations with recurring tasks \ud83d\udcca Connect Sheets cells with Notion blocks \ud83d\udcc8 Create charts and embed them back in Notion",
+    "type": "Notion Templates,Chrome Extensions,Scheduling software,Note and writing apps,Data visualization tools",
+    "url": "https://www.producthunt.com/products/notion2sheets"
+  },
+  {
+    "name": "Spectrum: Figma Plugin & Web App",
+    "overview": "With Spectrum, working with colors has never been this easy. Break out of the trial-error loop & instantly see how color palettes come alive on your design. Supercharge your workflow from hours to seconds!",
+    "type": "Figma Plugins",
+    "url": "https://www.producthunt.com/products/spectrum-figma-plugin-web-app"
+  },
+  {
+    "name": "Health Hub OS (Notion Template)",
+    "overview": "An Operating System Template with +15 unique templates & +10 trackers to help you track everything health-related in one connected Hub.",
+    "type": "Notion Templates",
+    "url": "https://www.producthunt.com/products/health-hub-os-notion-template"
+  },
+  {
+    "name": "Color Picker Chrome Extension",
+    "overview": "A simple, light and free to use HEX color picker by AdCreative.ai team that does not collect any information from your usage or account. NOTE: We have several planned updates in the upcoming weeks.",
+    "type": "Chrome Extensions",
+    "url": "https://www.producthunt.com/products/color-picker-chrome-extension"
+  },
+  {
+    "name": "Bookmark - Files Organiser Figma Plugin",
+    "overview": "Keep all your files and links organised right inside Figma with Bookmark. You can create folders and add files with links to keep your projects organised. Bookmark lets you export and import your organised data using json format. Happy Bookmarking \u270c\ufe0f",
+    "type": "Figma Plugins",
+    "url": "https://www.producthunt.com/products/bookmark-files-organiser-figma-plugin"
+  },
+  {
+    "name": "Web UI",
+    "overview": "Web UI is a modern frame for fulfilling your designing needs. Download free UI design assets for the Figma and Adobe XD",
+    "type": "Interface design tools,Figma Templates,Design resources",
+    "url": "https://www.producthunt.com/products/web-ui"
+  },
+  {
+    "name": "330+ Notion Resources",
+    "overview": "The largest curated list of Notion resources, apps, communities & creators. Your bread and water for Notion resources!",
+    "type": "Notion Templates,Community management,Apps for kids",
+    "url": "https://www.producthunt.com/products/330-notion-resources"
+  },
+  {
+    "name": "Twitter Uni",
+    "overview": "Twitter Uni helps you Find, Discover and Read the best Twitter Threads from top thought leaders in the most easiet way.",
+    "type": "Twitter apps,Social Networking,Social bookmarking,Online learning",
+    "url": "https://www.producthunt.com/products/twitter-uni"
+  },
+  {
+    "name": "Guul",
+    "overview": "Imagine a workplace where remote teams feel closer than ever. Guul bridges the gap through the universal language of play. With Guul Gamespace, our growing library of multiplayer social games enhances daily interactions. Enjoy predictor games for Football, Oscars, Eurovision, and the Olympics, plus trivia and word challenges. Integrated with email, Slack, Microsoft Teams, and SSO, Guul adds gamification, leaderboards, and analytics, transforming disconnection into vibrant camaraderie.",
+    "type": "Slack apps",
+    "url": "https://www.producthunt.com/products/guul"
+  },
+  {
+    "name": "Launch OS",
+    "overview": "Well-tested and proven Product launch kit of actionable launch strategies, 1000+ resources, and 100+ iconic design templates to ensure that you have the best launch of your product.",
+    "type": "Marketing automation platforms,Design resources,Product add-ons",
+    "url": "https://www.producthunt.com/products/launch-os"
+  },
+  {
+    "name": "Blackout",
+    "overview": "Blackout is a free WordPress plugin that implements a Dark Mode widget into your website, which allows your users to enable or disable it with a single click. It provides you with an easy to use settings page so you can customise it without coding.",
+    "type": "Wordpress Plugins",
+    "url": "https://www.producthunt.com/products/blackout-2"
+  },
+  {
+    "name": "Contentful to Figma Plugin",
+    "overview": "Contentful to Figma is a game-changer for designers. It allows you to easily and quickly pull data from your Contentful CMS and use it to generate custom design assets or update design elements within Figma.",
+    "type": "Figma Plugins",
+    "url": "https://www.producthunt.com/products/contentful-to-figma-plugin"
+  },
+  {
+    "name": "Hivemark",
+    "overview": "Hivemark helps you identify notable profiles on Twitter and know who you interact with. It can help you: - Discover like-minded users - Identify fake/parody accounts - Improve your DM experience",
+    "type": "Twitter apps",
+    "url": "https://www.producthunt.com/products/hivemark"
+  },
+  {
+    "name": "Q, chatGPT for Slack (GPT-4)",
+    "overview": "Q is a chatGPT for Slack powered by OpenAI GPT-3.5 and GPT-4AI model. 1. Go to Q https://q-bot.suchica.com/ and press \"Add to Slack\" to install Q 2. Talk to Q via DM without mentioning Q 3. Add Q to any channels then talk to Q by mentioning Q",
+    "type": "Slack apps",
+    "url": "https://www.producthunt.com/products/q-2"
+  },
+  {
+    "name": "Once UI",
+    "overview": "Once UI is an open-source design system and component library, helping you build Next.js apps faster than ever before. It includes a robust token and style system that simplifies customization, as well as a copy-and-paste component library that integrates seamlessly into your projects. Once UI is also available for Figma. With the Figma library, you can design and prototype entire products from scratch in hours. Use the same tokens and components as the Next.js design system.",
+    "type": "Website builders,UI frameworks,Figma Plugins,Design mockups,Interface design tools",
+    "url": "https://www.producthunt.com/products/once-ui-for-figma"
+  },
+  {
+    "name": "Ai Intern",
+    "overview": "Meet Ai Intern, your personal ChatGPT powered assistant that lives inside Slack, designed to make your work life easier and more efficient. It's like having an intern by your side, ready to help you 24/7.",
+    "type": "AI Chatbots,Slack apps,Work & Productivity",
+    "url": "https://www.producthunt.com/products/ai-intern"
+  },
+  {
+    "name": "AI Engine",
+    "overview": "ChatGPT in WordPress, Content & Images Generation, Finetuning, Embeddings, AI Copilot, AI Assistants, GPT Usage Statistics, Playground, etc. And also, an internal API that any other plugin can use!",
+    "type": "Wordpress Plugins,AI Chatbots,AI Content Detection",
+    "url": "https://www.producthunt.com/products/ai-engine"
+  },
+  {
+    "name": "ProjectOS Pro",
+    "overview": "Introducing ProjectOS Pro, the all-in-one solution for solopreneurs, small and medium businesses to effortlessly manage OKRs, projects, and tasks in a single, streamlined platform.",
+    "type": "Project management software,Social media management tools,Notion Templates",
+    "url": "https://www.producthunt.com/products/projectos-pro"
+  },
+  {
+    "name": "Twitter Pulse Hub",
+    "overview": "An ultimate Notion template for tracking everything associated with Twitter. With features like Engagement Hub, Tweets Hub, Twitter Resources and many more... Let's gain more clarity & see more progress with Twitter Pulse Hub.",
+    "type": "Calendar apps,Social Networking,Notion Templates",
+    "url": "https://www.producthunt.com/products/twitter-pulse-hub"
+  },
+  {
+    "name": "SceneXtras",
+    "overview": "SceneXtra\u2014The AI Forum of Fiction, where spectators become participants.",
+    "type": "AI Chatbots,Chrome Extensions",
+    "url": "https://www.producthunt.com/products/scenextras"
+  },
+  {
+    "name": "Prizeskout",
+    "overview": "Prizeskout helps users compare prices across 100+ e-commerce stores in 1 click, create Wishlist by adding items from multiple stores in a single cart, convert prices to 90+ local currency of choice, and share findings with friends and families.",
+    "type": "Ecommerce platforms,Chrome Extensions,Shopping",
+    "url": "https://www.producthunt.com/products/prizeskout"
+  },
+  {
+    "name": "Motion.page",
+    "overview": "Tap into the world of professional web animation with Motion.page - A unique, and advanced, yet beginner-friendly visual motion and interaction builder for WordPress. Powered by GSAP - the most powerful animation engine on the planet.",
+    "type": "Interface design tools,3D & Animation,Wordpress Plugins",
+    "url": "https://www.producthunt.com/products/motion-page"
+  },
+  {
+    "name": "Repurpose Pie",
+    "overview": "Text-to-video content repurposing tool for X (Twitter) creators. It takes your tweets, turns them into videos and posts them to TikTok & YouTube - 100% on autopilot (Instagram coming soon). Tweet Once. Grow Everywhere.",
+    "type": "Social media management tools,Social media scheduling tools,Twitter apps",
+    "url": "https://www.producthunt.com/products/repurpose-pie"
+  },
+  {
+    "name": "AITDK Extension",
+    "overview": "AITDK is a versatile browser extension designed to provide comprehensive website analysis. With its powerful features, AITDK offers the ability to track website traffic, perform Whois lookups, and conduct SEO analysis.",
+    "type": "Best SEO tools,Chrome Extensions,Website analytics",
+    "url": "https://www.producthunt.com/products/aitdk-extension"
+  },
+  {
+    "name": "UltimateAI",
+    "overview": "Unlock Superior Content Creation with UltimateAI \u2013 The Best AI Generator for WordPress. Elevate your writing, coding, chatbot, and image generation with ease.",
+    "type": "AI Coding Assistants,ChatGPT Prompts,Wordpress Plugins",
+    "url": "https://www.producthunt.com/products/ultimateai"
+  },
+  {
+    "name": "Side Space",
+    "overview": "Side Space is an AI-powered vertical tab manager extension that organizes multiple tabs in a side panel for seamless browsing. With a simple design and smart AI, it ensures your tabs are not only well-arranged but also logically grouped for maximum efficiency.",
+    "type": "Web browsers,Chrome Extensions",
+    "url": "https://www.producthunt.com/products/side-space"
+  },
+  {
+    "name": "Flipbook",
+    "overview": "Flipbook is a Figma plugin that helps you to create animation from your design. You can tweak your animation in real-time preview, you can share your animation by exporting to GIF/MP4 video file.",
+    "type": "Figma Plugins",
+    "url": "https://www.producthunt.com/products/flipbook"
+  },
+  {
+    "name": "Engage AI",
+    "overview": "Use AI to write insightful comments on LinkedIn. Save hours of your time as you engage and increase touchpoints with multiple leads on LinkedIn. Download Engage AI Chrome extension here: https://bit.ly/EngageAI_PH",
+    "type": "Writing assistants,Social Networking,Chrome Extensions,AI Chatbots",
+    "url": "https://www.producthunt.com/products/engage-ai-by-filt-pod"
+  },
+  {
+    "name": "Ausum",
+    "overview": "Ausum is a free Chrome extension that turns every article into a short audio summary, with just one click. When you find an article you want to summarize, just click the Ausum icon and listen to the summary, instantly. *No sign-up required.",
+    "type": "Chrome Extensions,Text-to-Speech,Writing assistants",
+    "url": "https://www.producthunt.com/products/ausum"
+  },
+  {
+    "name": "NoteCandy",
+    "overview": "Notecandy is a library of images created specifically for Notion.so. Notecandy provides Notion users with beautiful and uniformed illustrations based on relevant and universal thematics and categories.",
+    "type": "Notion Templates,Design resources,Design mockups",
+    "url": "https://www.producthunt.com/products/notecandy"
+  },
+  {
+    "name": "Morph Plugin for Figma",
+    "overview": "Create awesome effects like skeuomorph, neon, glitch, glass, and more - right in Figma! One-click transforms, adjust properties with ease, mix & match. Go creative! Available for free in the Figma community.",
+    "type": "Figma Plugins",
+    "url": "https://www.producthunt.com/products/morph-plugin-for-figma"
+  },
+  {
+    "name": "List of 150+ Free Notion Templates",
+    "overview": "Get started with Notion with this curated list of free templates from some of the best creators in the community. Browse through templates for productivity, business, finance, design, health & fitness and more.",
+    "type": "Notion Templates",
+    "url": "https://www.producthunt.com/products/list-of-150-free-notion-templates"
+  },
+  {
+    "name": "Briefy",
+    "overview": "Briefy is an AI knowledge assistant that streamlines daily information consumption for pro users. It distills complex information into structured summaries, organizes them into a knowledge base, and retrieves knowledge on demand with natural language.",
+    "type": "AI,AI Generative Art,Chrome Extensions",
+    "url": "https://www.producthunt.com/products/briefy"
+  },
+  {
+    "name": "FlyWP",
+    "overview": "Managing a WordPress site might be easy. But managing multiple sites over different server/cloud platforms? Now that sounds like a real hassle as a Dev. Unless you are using FlyWP! Now, you can just connect your servers to FlyWP and host any WordPress sites.",
+    "type": "Wordpress Plugins,Cloud Computing Platforms",
+    "url": "https://www.producthunt.com/products/flywp"
+  },
+  {
+    "name": "Product Checklist",
+    "overview": "Product Checklist is a collection of best practices for building products. Apply this knowledge at whatever stage you're in whether that having an idea, building your product, or launching your product.",
+    "type": "Project management software,Product add-ons,Work & Productivity",
+    "url": "https://www.producthunt.com/products/product-checklist"
+  },
+  {
+    "name": "HelpHero",
+    "overview": "Create interactive, easy to follow product tours that will help your users get started and adopt new features quicker than ever. No coding or big budgets required.",
+    "type": "Product demo,Product add-ons,User research,No-code platforms",
+    "url": "https://www.producthunt.com/products/helphero"
+  },
+  {
+    "name": "Darkdocs",
+    "overview": "Darkdocs adds a dark mode to your Google Docs writing experience.",
+    "type": "Chrome Extensions,Writing assistants",
+    "url": "https://www.producthunt.com/products/darkdocs"
+  },
+  {
+    "name": "Handlescout",
+    "overview": "Handlescout regularly checks Twitter username availability and notifies you by email when a desired handle becomes available.",
+    "type": "Twitter apps,Email marketing,Social media management tools",
+    "url": "https://www.producthunt.com/products/handlescout"
+  },
+  {
+    "name": "Hexofy",
+    "overview": "Say goodbye to copy-pasting with super simple 1-click web scraping you can use anywhere from your browser.",
+    "type": "Chrome Extensions,Data analysis tools,Web browsers",
+    "url": "https://www.producthunt.com/products/hexofy"
+  },
+  {
+    "name": "Mental Health Tracker",
+    "overview": "Notion mental health tracker is a template that allows you to monitor and manage your mental well-being over time. It helps you keep track of your mood, emotions, activities, and other relevant factors that can affect your mental health.",
+    "type": "Mental Health,Notion Templates,Health & Fitness",
+    "url": "https://www.producthunt.com/products/mental-health-tracker"
+  },
+  {
+    "name": "Text to image",
+    "overview": "Text to image is an extension that lets you convert any text to an image just by selecting the text instantly without leaving your browser tab.",
+    "type": "AI Generative Art,Chrome Extensions,Graphic design tools",
+    "url": "https://www.producthunt.com/products/text-to-image"
+  },
+  {
+    "name": "Patterns",
+    "overview": "Patterns is the fastest way to connect AI like ChatGPT to real business data and drive actions. In Patterns, you can build a Slack bot to answer incoming customer questions using your existing docs, add an AI assist feature to your product, and more.",
+    "type": "AI Chatbots,Slack apps,Automation tools",
+    "url": "https://www.producthunt.com/products/patterns-3"
+  },
+  {
+    "name": "Viral Tools - Viral Instagram Captions",
+    "overview": "Learn from the best: Boost your social media posts with the most viral captions on Instagram ever. No AI, just real data. \ud83d\ude0e \ud83d\ude80 Easily create successful content that is more likely to go viral. Need inspiration? There's also an AI caption generator.",
+    "type": "Social media management tools,AI Chatbots,Notion Templates",
+    "url": "https://www.producthunt.com/products/viral-tools-viral-instagram-captions"
+  },
+  {
+    "name": "ayraa",
+    "overview": "Meet Ayraa. Your personal search engine and knowledge assistant at work. Ayraa connects with Slack & your web browser to instantly capture & organize everything you do at work. A search & answer bot for your work chat & browsing history.",
+    "type": "AI,Slack apps,Search",
+    "url": "https://www.producthunt.com/products/ayraa"
+  },
+  {
+    "name": "Tart Finance",
+    "overview": "Revitalize your Chrome with Tart Finance \ud83d\udcc8! Transform your new tab into a dynamic stock market hub. Enjoy real-time stock updates, news, and a personalized watchlist. Quick access to financial sites in a user-friendly setup. Perfect for market enthusiasts!",
+    "type": "Investing,Newsletter platforms,Chrome Extensions",
+    "url": "https://www.producthunt.com/products/tart-finance-3"
+  },
+  {
+    "name": "Career Connect",
+    "overview": "Career Connect is a Chrome extension that helps you send personalized AI-crafted emails to company insiders to 3x your interview rates. Overcome the job application black hole. Get your resume seen by company insiders.",
+    "type": "Chrome Extensions,Job boards",
+    "url": "https://www.producthunt.com/products/career-connect"
+  },
+  {
+    "name": "Covfefe",
+    "overview": "Introducing Covfefe. Edit any of your old tweets by clicking Edit. \ud83d\udea8 Note: You will lose any favorites and retweets if you replace it with your edit! \ud83d\udea8 Covfefe also delays your tweets for 15 seconds allowing you to undo and edit them before they're seen. To get started, connect your Twitter account by clicking Covfefe in your toolbar.",
+    "type": "Twitter apps,Social media management tools,Messaging apps",
+    "url": "https://www.producthunt.com/products/covfefe"
+  },
+  {
+    "name": "Sketch The Ripper",
+    "overview": "Ever wanted to unroll Twitter threads into Markdown? Rip content from Twitter into your knowledge base \u2013 works great with tools like Roam, Notion, Dropbox Paper. Enter a Twitter username to grab their latest likes as Markdown.",
+    "type": "Twitter apps,Note and writing apps,Knowledge base software",
+    "url": "https://www.producthunt.com/products/sketch-the-ripper"
+  },
+  {
+    "name": "Logo Grabber",
+    "overview": "Logo Grabber is a free browser extension that allows you to quickly grab any site's logo in the right format \u26a1 Whether you're adding your partner's logo on your presentation or simply searching for your own logo, Logo Grabber will save you time!",
+    "type": "Chrome Extensions,Design resources,Graphic design tools",
+    "url": "https://www.producthunt.com/products/logo-grabber"
+  },
+  {
+    "name": "Figmac",
+    "overview": "A super lightweight Figma desktop app alternative, that delivers a more natural Mac experience.",
+    "type": "Figma Plugins,Interface design tools,Design resources",
+    "url": "https://www.producthunt.com/products/figmac"
+  },
+  {
+    "name": "Wireframer",
+    "overview": "Make your wireframe text stronger using unique SVG elements. Customisable and ready to be used with one click inside Figma, Sketch or Adobe XD. \ud83d\ude49",
+    "type": "Wireframing,Figma Plugins,Design resources",
+    "url": "https://www.producthunt.com/products/wireframer"
+  },
+  {
+    "name": "Hidden Kittens",
+    "overview": "Plugin for Figma \"Hidden Kittens\" will help give an emotional touch to your work. These Kittens are skilled at design and they will tell you what they think about your design decisions. You can replace the art-director in your team with these Kittens.",
+    "type": "Figma Plugins",
+    "url": "https://www.producthunt.com/products/hidden-kittens"
+  },
+  {
+    "name": "Squat Captcha",
+    "overview": "This captcha forces you to do 10 squats to continue. Works with chrome/firefox, desktop environment and also a webcam is required. There is available a Chrome extension to prevent compulsive purchases on amazon, more info https://bit.ly/3jS73YX",
+    "type": "Chrome Extensions,Safety and Privacy platforms,Webcams",
+    "url": "https://www.producthunt.com/products/squat-captcha"
+  },
+  {
+    "name": "Notion TrackerSuite",
+    "overview": "James Clear:\"Focus on system, not goal.\" Notion TrackerSuite includes 12 productivity templates + 10-Part Notion training course. Learn to build a high-performing workflow that connects your planning + execution activities from A to Z - hit 2021 goal, fast",
+    "type": "Notion Templates,Online learning,Work & Productivity",
+    "url": "https://www.producthunt.com/products/notion-trackersuite"
+  },
+  {
+    "name": "The New WordPress.com",
+    "overview": "",
+    "type": "Blogging platforms,Wordpress Plugins,Website builders",
+    "url": "https://www.producthunt.com/products/the-new-wordpress-com"
+  },
+  {
+    "name": "Twitter Video Downloader",
+    "overview": "Download videos form twitter in just a single click using this twitter video downloader addon for firefox.",
+    "type": "Twitter apps",
+    "url": "https://www.producthunt.com/products/twitter-video-downloader-4"
+  },
+  {
+    "name": "Rewind",
+    "overview": "Rewind displays your bookmarks filtered by date, with thumbnails and instant search. It takes one click to see the links you saved yesterday, last week, last month. It's totally free and it relies on your local bookmarks, you don't have to create an account.",
+    "type": "Social bookmarking,Search,Chrome Extensions",
+    "url": "https://www.producthunt.com/products/rewind-3"
+  },
+  {
+    "name": "Quasar IntelliSense",
+    "overview": "Quasar IntelliSense: Effortlessly enhance your Quasar development in Visual Studio Code with CSS class autocompletion. Save time, minimize errors, and simplify your workflow for a more efficient and effective coding experience.",
+    "type": "Product add-ons,Engineering & Development",
+    "url": "https://www.producthunt.com/products/quasar-intellisense"
+  },
+  {
+    "name": "Untitled UI",
+    "overview": "",
+    "type": "Figma Templates,Interface design tools,Design resources",
+    "url": "https://www.producthunt.com/products/untitled-ui"
+  },
+  {
+    "name": "Best of Chrome",
+    "overview": "Best of Chrome is a site dedicated to showcasing the best chrome extensions in one place. Instant search makes it easy and fast to find the extension that you are really looking for. Browse top, new and popular extensions today and make your Chrome browser better today!",
+    "type": "Chrome Extensions",
+    "url": "https://www.producthunt.com/products/best-of-chrome"
+  },
+  {
+    "name": "Olly - Your AI Social Media Co-Pilot",
+    "overview": "Olly: Your social media Co-pilot to rocketship your engagement on LinkedIn, Twitter, Reddit, Facebook, YouTube and Product Hunt. AI-driven comments, posts, viral scores. Boost presence, efficiency, and personalization. Pay-as-you-use with OpenAI Key.",
+    "type": "Chrome Extensions,Social media management tools,Web browsers",
+    "url": "https://www.producthunt.com/products/olly-2"
+  },
+  {
+    "name": "Better Lyrics",
+    "overview": "Better Lyrics enhances YouTube Music with beautiful, time-synced lyrics for every song. Enjoy a seamless and engaging music experience with support for multiple languages, translations, intuitive lyric navigation and more!",
+    "type": "Chrome Extensions",
+    "url": "https://www.producthunt.com/products/better-lyrics"
+  },
+  {
+    "name": "GPTZero",
+    "overview": "An app that can quickly and efficiently detect whether text is written by a human or by AI like ChatGPT, Claude, Gemini, etc.",
+    "type": "AI Content Detection,Writing assistants,Chrome Extensions",
+    "url": "https://www.producthunt.com/products/gptzero"
+  },
+  {
+    "name": "Make OS X Great Again",
+    "overview": "Make improvements for OS X so you can work better.",
+    "type": "Chrome Extensions,Product add-ons",
+    "url": "https://www.producthunt.com/products/make-os-x-great-again"
+  },
+  {
+    "name": "Hugo",
+    "overview": "A Chrome Extension that enhances your browsing experience for Hugo. Right now, the basic features allow you to see when a website you're visiting has been built with Hugo as well as search the Hugo Docs from your Omnibox (address) Bar.",
+    "type": "Search,Chrome Extensions,Static site generators",
+    "url": "https://www.producthunt.com/products/hugo-2"
+  },
+  {
+    "name": "twimmage",
+    "overview": "Twimmage lets you easily turn tweets into beautiful images you can share on Instagram or anywhere else. And it's free!",
+    "type": "Twitter apps,Social media management tools,Photo editing",
+    "url": "https://www.producthunt.com/products/twimmage"
+  },
+  {
+    "name": "Everlog",
+    "overview": "In a world of bloated journal apps, Everlog strives to be the simple, minimalist alternative. Everlog also introduces a new concept to journal apps: comments. Comments let you reflect on your entries and create twitter-like threads.",
+    "type": "Mobile editing apps,Twitter apps,Note and writing apps",
+    "url": "https://www.producthunt.com/products/everlog"
+  },
+  {
+    "name": "Client Portal",
+    "overview": "Client Portal integrates with WordPress to help you manage your client projects... without the bulky project management software.",
+    "type": "Wordpress Plugins,Project management software",
+    "url": "https://www.producthunt.com/products/client-portal"
+  },
+  {
+    "name": "Wallcat",
+    "overview": "Wallcat is a free app that gives you a beautiful new desktop wallpaper on macOS and Google Chrome Tab.",
+    "type": "Wallpapers,Chrome Extensions,Design resources",
+    "url": "https://www.producthunt.com/products/wallcat"
+  },
+  {
+    "name": "Chipmunk Theme",
+    "overview": "Chipmunk is a WordPress Theme tailored to meet the increased demand for content curation websites. Carefully crafted with the user in mind, to aid in great content discovery.",
+    "type": "Wordpress themes,Blogging platforms,Design & Creative",
+    "url": "https://www.producthunt.com/products/chipmunk-theme"
+  },
+  {
+    "name": "Snapmail",
+    "overview": "",
+    "type": "Chrome Extensions,Email clients,Safety and Privacy platforms",
+    "url": "https://www.producthunt.com/products/snapmail"
+  },
+  {
+    "name": "Image Cyborg",
+    "overview": "",
+    "type": "Screenshots and screen recording apps,Photo editing,Chrome Extensions",
+    "url": "https://www.producthunt.com/products/image-cyborg"
+  },
+  {
+    "name": "Startup Bell",
+    "overview": "Receive a *DING* every time someone visits your site. Ideal for boosting the mood if you are a young startup that has just launched it's website. - rings the bell every time you have a new website visitor; - shows the number of real-time active users next to the icon.",
+    "type": "Chrome Extensions,Website analytics,Work & Productivity",
+    "url": "https://www.producthunt.com/products/startup-bell"
+  },
+  {
+    "name": "Paste with Frames",
+    "overview": "Fast\u2014Drag & drop from Figma or Sketch. Intelligent\u2014Automatically applies the right frame based on your media\u200a attributes\u2014\u200aphone, tablet, web, portrait or landscape. Interactive\u2014Scroll mockups, play videos, gifs, interactive prototypes, and embeds. Simply beautiful\u2014Clean, simple, tone-on-tone aesthetic that you can change with one click.",
+    "type": "Design mockups,Figma Plugins,Interface design tools",
+    "url": "https://www.producthunt.com/products/paste-with-frames"
+  },
+  {
+    "name": "Secret Santa 2.0",
+    "overview": "Secret Santa is a tool to organize and throw a Secret Santa inside your Slack or Discord team. You pick some buddies from the list, add a custom message and we pick who is gonna gift who. Everyone gets a message from the Bot and that's it. Nothing is stored, and the app is open source! Happy holidays!",
+    "type": "Slack apps",
+    "url": "https://www.producthunt.com/products/secret-santa-2-0"
+  },
+  {
+    "name": "Jayson",
+    "overview": "Jayson is a simple yet powerful JSON viewer with Siri Shortcuts, Share Sheet Actions and URL schemes.",
+    "type": "Mobile editing apps,Chrome Extensions,Apps for kids",
+    "url": "https://www.producthunt.com/products/jayson-2"
+  },
+  {
+    "name": "Which Login?",
+    "overview": "Keep forgetting how you signed in for websites? Google? Or was it Facebook or Twitter? A browser extension to save you from creating new accounts by accident. It remembers which social login you used last time for you.",
+    "type": "Chrome Extensions,Authentication & identity tools,Password managers",
+    "url": "https://www.producthunt.com/products/which-login"
+  },
+  {
+    "name": "Unapp",
+    "overview": "Unapp is a human curated directory of minimal and useful single-purpose apps.",
+    "type": "App switcher,Product add-ons,Work & Productivity",
+    "url": "https://www.producthunt.com/products/unapp"
+  },
+  {
+    "name": "Shoulder Tap",
+    "overview": "Shoulder Tap is a simple tool to help you manage requests for your time. Turn random shoulder taps into a queue, and give other team members visibility into how many people are looking for your help at any moment.",
+    "type": "Slack apps,Team collaboration software,Work & Productivity",
+    "url": "https://www.producthunt.com/products/shoulder-tap"
+  },
+  {
+    "name": "Layers Design System",
+    "overview": "Layers is a thoroughly documented, all-encompassing design system. Built by industry veterans, its focus lies on allowing designers and developers alike to quickly and easily create lovable products.",
+    "type": "Figma Templates,Design resources,UI frameworks",
+    "url": "https://www.producthunt.com/products/layers-design-system"
+  },
+  {
+    "name": "WhoQui for Slack",
+    "overview": "Every company has experts in different topics. WhoQui helps you find, connect and recommend those in yours, for free!",
+    "type": "Slack apps",
+    "url": "https://www.producthunt.com/products/whoqui-for-slack"
+  },
+  {
+    "name": "Socially Browse Chrome Extension",
+    "overview": "The Socially Browse Chrome extension allows you to rate & comment on any webpage without leaving it, specific to the webpage (not the website as a whole). No feedback box? Need advice? Or if you just want to leave your thoughts! You can use Socially Browse.",
+    "type": "Chrome Extensions",
+    "url": "https://www.producthunt.com/products/socially-browse-chrome-extension"
+  },
+  {
+    "name": "OnlyTweets",
+    "overview": "An experiment from Stir to help creators monetize natively on Twitter through paywalled accounts.",
+    "type": "Twitter apps,Social media management tools,Influencer marketing platforms",
+    "url": "https://www.producthunt.com/products/onlytweets"
+  },
+  {
+    "name": "Sheet Monkey",
+    "overview": "Sheet Monkey lets you do more with HTML forms by giving you unique, secure endpoints that send your data directly to Google Sheets. It's perfect for Webflow, Carrd, static HTML sites. It eliminates the need for backend code and takes seconds to get started.",
+    "type": "No-code platforms,Chrome Extensions,Spreadsheets",
+    "url": "https://www.producthunt.com/products/sheet-monkey"
+  },
+  {
+    "name": "Tech Twitter 2020 Yearbook",
+    "overview": "Read 50 pages (digital or physical) covering the best tweets from every month of 2020, class photos of the coolest people on Tech Twitter, and superlatives for Dankest Memes, Influencer of the Year, and more.",
+    "type": "Twitter apps",
+    "url": "https://www.producthunt.com/products/tech-twitter-2020-yearbook"
+  },
+  {
+    "name": "Paywall Screens",
+    "overview": "Everything you need to design the perfect iOS paywall screen. Get inspired by browsing a categorized collection of the best paywall screens in other apps. Design your own screen using the Figma template that includes dozens of examples and components.",
+    "type": "Figma Templates",
+    "url": "https://www.producthunt.com/products/paywall-screens"
+  },
+  {
+    "name": "System Color Picker",
+    "overview": "This is the built-in macOS color picker as a standalone app with lots of additional features. Quickly copy, paste, convert between different color formats, toggle it directly from the menu bar, keyboard shortcuts, launch it at login, and more.",
+    "type": "Design resources,Interface design tools,Chrome Extensions",
+    "url": "https://www.producthunt.com/products/system-color-picker"
+  },
+  {
+    "name": "Notion Plant Manager",
+    "overview": "Are you one of those people who love plants, have more and more of them at home, but often forget when to water them? With this template, you will be able to take care of your plants like never before!",
+    "type": "Notion Templates",
+    "url": "https://www.producthunt.com/products/notion-plant-manager"
+  },
+  {
+    "name": "TopNotch",
+    "overview": "TopNotch is a free macOS app that hides the notch by making your menu bar black. It's only cosmetic and doesn't take away any screen real estate \u2728",
+    "type": "Chrome Extensions,UI frameworks,Design resources",
+    "url": "https://www.producthunt.com/products/topnotch"
+  },
+  {
+    "name": "Notion Website Pack",
+    "overview": "Start from a template and launch your website today. This can be a blog, personal website, landing page, help center and more.",
+    "type": "Website builders,Notion Templates,Landing page builders",
+    "url": "https://www.producthunt.com/products/notion-website-pack"
+  },
+  {
+    "name": "OnlyThreads",
+    "overview": "Make Slack channels \u2018thread-only\u2019, meaning any messages sent to these channels will automatically become threads. Close threads with a resulting decision visible to everyone. When you create new threads, it will automatically search for similar conversations.",
+    "type": "Slack apps,Knowledge base software",
+    "url": "https://www.producthunt.com/products/onlythreads"
+  },
+  {
+    "name": "Mini Photo Editor for Figma",
+    "overview": "A happy little Photo Editor plugin right inside Figma.",
+    "type": "Figma Plugins",
+    "url": "https://www.producthunt.com/products/mini-photo-editor-for-figma"
+  },
+  {
+    "name": "Iconbay Figma Plugin",
+    "overview": "Iconbay Figma plugin offers fully customized style, color, size, and stroke directly on Figma!. More icons will be added very soon! \ud83d\udd25",
+    "type": "Figma Plugins",
+    "url": "https://www.producthunt.com/products/iconbay-figma-plugin"
+  },
+  {
+    "name": "Focai Notion Template",
+    "overview": "Focai lets you see the mental impact of your study time and your chill time right in your calendar, so you can strike a balance that has you avoiding unhealthy levels of stress\ud83d\udd25 and performing like a pro! \ud83e\udd47",
+    "type": "Notion Templates",
+    "url": "https://www.producthunt.com/products/focai-notion-template"
+  },
+  {
+    "name": "AnonymityBot for Slack",
+    "overview": "Responsible anonymous feedback in Slack! Trusted by over 1000 teams. Supercharge your diversity, equity and inclusion program and upgrade your feedback culture.",
+    "type": "Slack apps",
+    "url": "https://www.producthunt.com/products/anonymitybot-for-slack"
+  },
+  {
+    "name": "LottieFiles for WordPress",
+    "overview": "Add free Lottie animations to your WordPress site with the LottieFiles for WordPress plugin -- even if you can't code or design.",
+    "type": "Wordpress Plugins",
+    "url": "https://www.producthunt.com/products/lottiefiles-for-wordpress"
+  },
+  {
+    "name": "VSCode Notion",
+    "overview": "VSCode Notion lets you browse Notion pages right inside Visual Studio Code. You can now code and read Notion pages at the same time. Love both Notion and VSCode? This is the best of both worlds.",
+    "type": "Code editors,Notion Templates",
+    "url": "https://www.producthunt.com/products/vscode-notion"
+  },
+  {
+    "name": "SpellCheck",
+    "overview": "Say goodbye to typos in your Figma designs with SpellCheck, the best plug-in for spell-checking. Multiple languages supported. Grammar, white-spacing mistakes and 'lorem ipsum' detection. Keep your writing clear and mistake-free with this must-have tool.",
+    "type": "Figma Plugins",
+    "url": "https://www.producthunt.com/products/spellcheck"
+  },
+  {
+    "name": "Frames X",
+    "overview": "Frames X is an easy-to-use, well-documented, and supported design system that includes a complete eBook. With Frames X, you will create beautiful and robust interfaces and UI systems while staying on top of the best design practices.",
+    "type": "Figma Templates,Interface design tools,Design resources",
+    "url": "https://www.producthunt.com/products/frames-x"
+  },
+  {
+    "name": "Lunabot",
+    "overview": "Lunabot is an extension for better ChatGPT experience and run ChatGPT on any webpages. Lunabot can be used on any webpage to provide writing suggestions, content optimization tips, translation assistance, plagiarism checking, and access to a wiki assistant.",
+    "type": "Chrome Extensions,Writing assistants,AI Chatbots",
+    "url": "https://www.producthunt.com/products/lunabot"
+  },
+  {
+    "name": "ChatGPT for WordPress",
+    "overview": "Transform your content creation process with the Gutenberg AI Writer Plugin. This powerful tool for WordPress streamlines your workflow with a user-friendly AI interface and advanced rewriting features. Create high-quality content effortlessly - try it today!",
+    "type": "Wordpress Plugins",
+    "url": "https://www.producthunt.com/products/chatgpt-for-wordpress-3"
+  },
+  {
+    "name": "AI Grammar Checker & Rewriter for Figma",
+    "overview": "Linguix for Figma offers real-time grammar checking and rewriting to instantly improve content in English \ud83c\uddec\ud83c\udde7, French \ud83c\uddeb\ud83c\uddf7, German \ud83c\udde9\ud83c\uddea, Spanish \ud83c\uddea\ud83c\uddf8, Portuguese \ud83c\uddf5\ud83c\uddf9, and Polish \ud83c\uddf5\ud83c\uddf1 in your Figma objects.",
+    "type": "Figma Plugins,Writing assistants",
+    "url": "https://www.producthunt.com/products/ai-grammar-checker-rewriter-for-figma"
+  },
+  {
+    "name": "BookmarkPilot",
+    "overview": "\ud83d\udcaf Free tool to Search and Export your X/Twitter bookmarks with complete privacy. Search by Name, Handle, or Tweet Text with ease. Export selected tweets to CSV. Completely private with no login. And don't forget to discover bookmarks from users worldwide!",
+    "type": "Microblogging platforms,Chrome Extensions,Search",
+    "url": "https://www.producthunt.com/products/bookmarkpilot"
+  },
+  {
+    "name": "CF7 Google Sheet Connector for WordPress",
+    "overview": "CF7 Google Sheet Connector is a most powerful, secure and the popular connector \ud83d\ude80 for WordPress, A bridge between WordPress Contact Form 7 and Google Sheets, \ud83d\udd04 Real-time sync of form submission, No chance to miss the leads received from your website!",
+    "type": "Spreadsheets,Wordpress Plugins,Data analysis tools",
+    "url": "https://www.producthunt.com/products/cf7-google-sheet-connector-for-wordpress"
+  },
+  {
+    "name": "ColdCraft",
+    "overview": "Focus on the important things. ColdCraft will take care of the cold emails. Input your resume, GCal, and the LinkedIn profile of someone you want to reach out to \u2014 and craft + send an effective, personalized email in seconds.",
+    "type": "Professional networking platforms,Writing assistants,Chrome Extensions",
+    "url": "https://www.producthunt.com/products/coldcraft"
+  },
+  {
+    "name": "Blocks",
+    "overview": "The best products start with great collaboration on low-fidelity wireframes. Blocks is a Figma plugin that features a library of components so you can create low-fidelity wireframes with your whole team - in minutes.",
+    "type": "Figma Plugins,Wireframing,Team collaboration software",
+    "url": "https://www.producthunt.com/products/blocks-8"
+  },
+  {
+    "name": "Escape the Algorithm",
+    "overview": "Escape the Algorithm lets you reclaim your time online by hiding algorithmically suggested content on YouTube, Facebook, and more. Take control of your digital experience, avoid distractions, and discover content on your terms with our easy-to-use tool.",
+    "type": "Chrome Extensions,Web browsers,Safety and Privacy platforms",
+    "url": "https://www.producthunt.com/products/escape-the-algorithm"
+  },
+  {
+    "name": "Zigma by NextUI (YC S24)",
+    "overview": "Zigma connects your design system to production code, directly syncing design variables from Figma into your GitHub projects. Designers and developers stay aligned, ensuring consistency and speeding up development, while reducing errors and manual handoffs.",
+    "type": "Figma Plugins,Team collaboration software,Git clients",
+    "url": "https://www.producthunt.com/products/zigma-by-nextui-yc-s24"
+  },
+  {
+    "name": "askone.ai",
+    "overview": "askone.ai is a browser extension powered by large language models, designed to help you quickly get powerful support from the language model while browsing the web. It supports GPT, Gemini, Claude, Llama, and Qwen. askone.ai offers the most convenient way to interact with large language models without disrupting the original design of the webpage. It eliminates the need to switch between different windows or copy and paste.",
+    "type": "AI Characters,AI Infrastructure Tools,Chrome Extensions",
+    "url": "https://www.producthunt.com/products/askone-ai"
+  },
+  {
+    "name": "cursor.new",
+    "overview": "Skip the setup hassle. Get started with curated prompt examples, intelligent project scaffolding, and built-in best practices to supercharge your Cursor AI pair programming experience.",
+    "type": "AI,Engineering & Development,Product add-ons",
+    "url": "https://www.producthunt.com/products/cursor-new"
+  },
+  {
+    "name": "Discoverify",
+    "overview": "Discoverify is a free Spotify add-on that automatically generates a personalized \"Discover Daily\" playlist, filled with recommendations based on your listening history. Tweak your playlist settings and get a daily curated playlist filled with new music!",
+    "type": "Product add-ons",
+    "url": "https://www.producthunt.com/products/discoverify"
+  },
+  {
+    "name": "Flitter",
+    "overview": "Your new Twitter app. Beauty comes in all shapes and sizes, and with flitter we&nbsp;absolutely&nbsp;believe that. The way in which you browse your timeline and interact with tweets should never be an afterthought, it should look stunning. And it does. You can go from light to dark as effortlessly as tapping an on-screen button. You can change accent hues to match any outfit, and pictures don't have to be small and tucked away. They can be big and bold. It's the same old Twitter, but with a fresh new coat of paint. Notable features: - A gorgeous timeline that can be tweaked to look how you want - Tweet detail with threaded replies - Long-hold tweets for quick actions - Tap the navigation bar for a jump bar to quickly access lists and bookmarked users - Long-hold the navigation bar for a quick theme switcher - Local and global trends - Bookmark users for quick access - Mentions with graphed history - New tweet section with an intuitive keyboard drawer - Keyboard haptics - Search local and global tweets - Search users - Edit tweets - Translate tweets - Change theme hues - Dark mode and OLED dark mode - Change image layout and positions - Pinch the screen to tweet a screenshot - Move tweet button around to a place that suits you - View users' mentions and liked tweets - Extensive tweet actions - Extensive profile actions - Swipe through recent images - Biometric locks for the app and app sections - Multiple user accounts - More settings than you know what to do with - Dynamically change the app icon - Sounds and haptics - 3D Touch Peek and Pop - 3D Touch quick actions - Today Widget - Share Extension - iMessage sticker pack - Siri support",
+    "type": "Twitter apps,Social Networking,Mobile editing apps",
+    "url": "https://www.producthunt.com/products/flitter"
+  },
+  {
+    "name": "Figma Logo Creator",
+    "overview": "Looking for the logo inspiration for your next awesome project on Figma so no need to go out and roam here and there for getting logos or inspiration we got you right here in Figma. Serve you Prebuild collections of logo and select the best logo or craft one.",
+    "type": "Figma Plugins,Design resources,Design inspiration websites",
+    "url": "https://www.producthunt.com/products/figma-logo-creator"
+  },
+  {
+    "name": "EazyDocs",
+    "overview": "Most powerful WordPress plugin for creating a knowledge base, documentation, helpdesk, FAQ, wiki, and more",
+    "type": "Wordpress Plugins",
+    "url": "https://www.producthunt.com/products/eazydocs"
+  },
+  {
+    "name": "Vibe Shift",
+    "overview": "Vibe Shift is your Slack communication companion, ensuring your messages resonate the right way, every time. Whether you need to be casual, professional, direct, friendly, or more, Vibe Shift effortlessly transforms your text to suit the tone you desire.",
+    "type": "Slack apps",
+    "url": "https://www.producthunt.com/products/vibe-shift"
+  },
+  {
+    "name": "Amino",
+    "overview": "Amino is a free CSS editor that lets you write and apply persistent CSS to any website. Use Amino to experiment with CSS in realtime, style your favorite websites, fix rendering issues\u2014the applications are endless!",
+    "type": "Chrome Extensions",
+    "url": "https://www.producthunt.com/products/amino"
+  },
+  {
+    "name": "Reddit Bests",
+    "overview": "Reddit is one of the last remaining places on the Internet where you can find real product reviews. I created Reddit Bests to aggregate all these reviews in one place.",
+    "type": "Social bookmarking,Social & Community,Product add-ons",
+    "url": "https://www.producthunt.com/products/reddit-bests"
+  },
+  {
+    "name": "Twitter Bot Without Code",
+    "overview": "Build a Twitter Bot with ZERO lines of code completely using nocode tools. No Twitter API Required \ud83e\udd2f",
+    "type": "Twitter apps",
+    "url": "https://www.producthunt.com/products/twitter-bot-without-code"
+  },
+  {
+    "name": "Illustration Plugin for Figma",
+    "overview": "Free Popular Illustration libraries for everyone, plugin allows you to insert high-quality free illustrations right into Figma. Just drag and drop to add it on Figma.",
+    "type": "Figma Plugins,Illustrations,Design resources,Graphic design tools",
+    "url": "https://www.producthunt.com/products/illustration-plugin-for-figma"
+  },
+  {
+    "name": "Notion Pro Clipper",
+    "overview": "With this free extension, you can 1. Add a webpage to your Notion page\ud83d\udcbb 2. Save webpage URLs, entire webpages, or a section of a webpage \u2705 3. Save specific part of the screen \ud83e\uddfe 4. Save Images to notion \ud83d\udcf7 Download it now\ud83d\udd25",
+    "type": "Chrome Extensions,Notion Templates,Note and writing apps,Screenshots and screen recording apps",
+    "url": "https://www.producthunt.com/products/notion-pro-clipper"
+  },
+  {
+    "name": "Angle 3",
+    "overview": "Vector mockups for iPhone, iPad, Android and Mac devices, including the new iPhone 13, Pro, Pro Max and Mini. Perfect for presenting your apps. Huge library of components, compositions, wallpapers and plugins made for Figma, Sketch and XD.",
+    "type": "Design mockups,Figma Plugins,Wallpapers",
+    "url": "https://www.producthunt.com/products/angle-3"
+  },
+  {
+    "name": "Notelet",
+    "overview": "Write in Notion, publish to the web. Add custom domain, analytics, themes and more.",
+    "type": "Website builders,Blogging platforms,Notion Templates",
+    "url": "https://www.producthunt.com/products/notelet"
+  },
+  {
+    "name": "The OG App",
+    "overview": "Miss the old Instagram? Use The OG App! The OG App puts your choice first. Delete IG and: 1. Remove ads and suggested content. 2. Eliminate distractions like Reels and the explore page. 3. Make custom feeds and see posts from only people you care about.",
+    "type": "Ad blockers,Social media management tools,Chrome Extensions",
+    "url": "https://www.producthunt.com/products/the-og-app"
+  },
+  {
+    "name": "Thanks app for Slack",
+    "overview": "Built for Slack, Thanks is a recognition app to appreciate your fellow team and community members. Build a culture of appreciation, and incentivize your people to help each other. With Thanks, never forget to thank your co-workers or fellow community members.",
+    "type": "Slack apps",
+    "url": "https://www.producthunt.com/products/thanks-app-for-slack"
+  },
+  {
+    "name": "Stoic Life Journal",
+    "overview": "Improve your journaling experience in a way you've never thought possible with this lightweight and digital stoic journal made with love in Notion.",
+    "type": "Notion Templates,Mental Health,Note and writing apps",
+    "url": "https://www.producthunt.com/products/stoic-life-journal"
+  },
+  {
+    "name": "Twito",
+    "overview": "Product founders can receive free promotion on Twitter, leading to increased visibility and early adopters. Meanwhile, product users have the opportunity to receive a free upgrade to the Pro account by promoting the product on their Twitter.",
+    "type": "Social media management tools,Marketing automation platforms,Twitter apps",
+    "url": "https://www.producthunt.com/products/twito"
+  },
+  {
+    "name": "Halo",
+    "overview": "Build your dream site effortlessly! Halo is a powerful, user-friendly open-source tool. Create blogs, company sites, forums, and more with ease. Customize with templates and plugins. Unleash your creativity! \ud83d\ude80",
+    "type": "Website builders,Headless CMS software,Content Management Systems,Wordpress Plugins",
+    "url": "https://www.producthunt.com/products/halo-7"
+  },
+  {
+    "name": "Lexy",
+    "overview": "Meet Lexy, the AI chatbot assistant. Trained on your Notion pages, Lexy connects seamlessly to your content. Simply link your Notion, select pages, and deploy the bot as a widget. Ideal for teams, audiences, or personal use. Free & quick setup in <2 mins.",
+    "type": "Knowledge base software,AI Chatbots,Notion Templates",
+    "url": "https://www.producthunt.com/products/lexy-notion-ai-chatbot"
+  },
+  {
+    "name": "Botimum - Slackbot for daily tasks",
+    "overview": "Elevate your Slack experience with: \ud83d\ude80 Daily standup updates \ud83d\udcca Employee check-ins \ud83d\uddf3\ufe0f Easy polls for better decisions",
+    "type": "Standup bots,AI Chatbots,Slack apps",
+    "url": "https://www.producthunt.com/products/botimum-slackbot-for-daily-tasks"
+  },
+  {
+    "name": "Linfo.ai",
+    "overview": "Linfo is a personal AI fuelled by your insight that can grow your knowledge organically.",
+    "type": "Chrome Extensions,Writing assistants,AI",
+    "url": "https://www.producthunt.com/products/linfo-ai"
+  },
+  {
+    "name": "EaZy Security",
+    "overview": "EaZy Security: Fortify your website against threats. We safeguard against SQLi, XSS, proxies, VPNs, TOR, spam, and more. Our intelligent algorithm detects known and new threats. Trust us to protect your WordPress site.",
+    "type": "Security software,Wordpress Plugins",
+    "url": "https://www.producthunt.com/products/eazy-security"
+  },
+  {
+    "name": "Commotion",
+    "overview": "Use your Notion database to manage your mailing lists. Create tables of contacts and send them personalized emails with Commotion's powerful mail merge tools. It's free to try, and the Pro version includes filtering, integration with forms, and much more.",
+    "type": "Notion Templates,Email marketing,Survey and form builders",
+    "url": "https://www.producthunt.com/products/commotion"
+  },
+  {
+    "name": "Owwly",
+    "overview": "Space for design maniacs interested in new cool digital products and trends. Space where product matters!",
+    "type": "Design & Creative,Startup communities,Product add-ons",
+    "url": "https://www.producthunt.com/products/owwly"
+  },
+  {
+    "name": "Flume 2.0",
+    "overview": "",
+    "type": "Social Networking,Chrome Extensions,Photo sharing",
+    "url": "https://www.producthunt.com/products/flume-2-0"
+  },
+  {
+    "name": "Nighthawk for Twitter",
+    "overview": "Nighthawk is a new kind of Twitter app designed to pick up where the default options have let you down. We're focused on solving problems we all face on social media, like overwhelming news feeds and difficulty just hearing from the friends you care about.",
+    "type": "Twitter apps",
+    "url": "https://www.producthunt.com/products/nighthawk-for-twitter"
+  },
+  {
+    "name": "What To Sell Online",
+    "overview": "Stuck finding a winning product to sell online? We have some ideas for you. By Productbyte.co",
+    "type": "Ecommerce platforms,Product add-ons,Marketplace sites",
+    "url": "https://www.producthunt.com/products/what-to-sell-online"
+  },
+  {
+    "name": "Show my NFT on Twitter",
+    "overview": "Here, we display our Crypto Art on Twitter. Every day, your profile picture is updated randomly based on your NFT collection. Connect with Twitter, sync your openSea wallet and choose your favorites NFTs. We do the rest.",
+    "type": "Twitter apps,NFT creation tools,Crypto tools",
+    "url": "https://www.producthunt.com/products/show-my-nft-on-twitter"
+  },
+  {
+    "name": "IKIGAI Finder",
+    "overview": "IKIGAI is a Japanese concept that means your reason for being. This template will help you find your career, side-hustles and hobbies for a happy living while assessing your Strengths, Weaknesses, Interests and Lifestyle Goals.",
+    "type": "Notion Templates",
+    "url": "https://www.producthunt.com/products/ikigai-finder"
+  },
+  {
+    "name": "TalkWeb",
+    "overview": "Talk Web is an AI powered chrome extension that lets you chat with any website without making you read the entire thing. Get an instant summary or analyze. It increases your productivity and saves time.",
+    "type": "AI Chatbots,Chrome Extensions,Work & Productivity",
+    "url": "https://www.producthunt.com/products/talkweb"
+  },
+  {
+    "name": "Blank Design System",
+    "overview": "Create high-quality landing pages in just a few minutes and save a lot of time with Blank's huge layout library. Get a set of 2k+ fully customizable and neatly organized components that will help you work faster. Especially for Figma.",
+    "type": "Interface design tools,Figma Plugins,Design resources",
+    "url": "https://www.producthunt.com/products/blank-design-system"
+  },
+  {
+    "name": "Glyphy",
+    "overview": "Glyphy is a simple online tool that allows you to easily copy special characters & symbols (also known as glyphs) to your device's clipboard so that you can then paste them to any document or app you want.",
+    "type": "Design resources,Interface design tools,Product add-ons",
+    "url": "https://www.producthunt.com/products/glyphy"
+  },
+  {
+    "name": "Abbot",
+    "overview": "Abbot helps teams keep track of customer conversations in Slack and automate manual work. With built-in reporting and a powerful integration layer, Abbot can save your team hours of work and endless headaches.",
+    "type": "Slack apps,Automation tools,Customer support tools",
+    "url": "https://www.producthunt.com/products/abbot"
+  },
+  {
+    "name": "Crewting",
+    "overview": "Crewting is a matching solution that takes remote team collaboration to the next level. Employees get automatically matched, jump directly from Slack into the coffee break environment and enjoy interactive content moderation. With Crewting, there's no more awkward silence between colleagues when they meet. The bonding experiences strengthen your company culture and are fun. Making meaningful connections has never been easier!",
+    "type": "Virtual office platforms,Social Networking,Slack apps",
+    "url": "https://www.producthunt.com/products/crewting"
+  },
+  {
+    "name": "Tweeten",
+    "overview": "Tweeten is one of the best Twitter apps for Windows, and it's now available on the Surface Pro X.",
+    "type": "Twitter apps",
+    "url": "https://www.producthunt.com/products/tweeten"
+  },
+  {
+    "name": "ContentPro",
+    "overview": "ContentPro by Automata is a Chrome Extension that compares your Google Doc to our content library to see what industry leaders and competitors are saying about your topics.",
+    "type": "Chrome Extensions,Best SEO tools,Writing assistants",
+    "url": "https://www.producthunt.com/products/contentpro"
+  },
+  {
+    "name": "Best of Product Hunt",
+    "overview": "An unofficial tribute site where you can discover products posted to Product Hunt in 2019 that gained the most votes each day displayed in a handy calendar view.",
+    "type": "Calendar apps,Product add-ons,Project management software",
+    "url": "https://www.producthunt.com/products/best-of-product-hunt"
+  },
+  {
+    "name": "Design Lint",
+    "overview": "Design Lint is a free and open source plugin for Figma built to help you find and fix errors in your designs. The plugin finds missing styles within your designs on all your layers (text, fills, strokes, border radius, and effects).",
+    "type": "Figma Plugins,Design resources,UI frameworks",
+    "url": "https://www.producthunt.com/products/design-lint"
+  },
+  {
+    "name": "Notion Planners",
+    "overview": "Plan your day, week and month in Notion.",
+    "type": "Notion Templates",
+    "url": "https://www.producthunt.com/products/notion-planners"
+  },
+  {
+    "name": "HumanCircles.AI",
+    "overview": "Our game-changing Chrome Extension is here to revolutionize your LinkedIn search experience, providing recruiters, job seekers, and salespeople with an unparalleled advantage in connecting with the right people in the most meaningful way. https://chrome.google.com/webstore/detail/human-circles-ai-free-lin/bakpglgljlidccopnnpcdnfbijaelbfc?hl=en-US",
+    "type": "Professional networking platforms,Chrome Extensions,Lead generation software",
+    "url": "https://www.producthunt.com/products/humancircles-ai"
+  },
+  {
+    "name": "Surf",
+    "overview": "Surf is a free browser extension that allows you to passively earn rewards for your everyday browsing \ud83e\udd19 Download today for a chance to win a Tesla! We're available in USA + Canada but Surf is growing to regions worldwide- join our waitlist at joinsurf.com",
+    "type": "Chrome Extensions,Web browsers",
+    "url": "https://www.producthunt.com/products/surf-6"
+  },
+  {
+    "name": "Viewports",
+    "overview": "Viewports let you preview display sizes and market share of various viewports present in Apple and Google device lineup! Just select the frames you would like to work with, fire up the plugin, select the display size, and boom! Your mockups are resized!",
+    "type": "Figma Plugins",
+    "url": "https://www.producthunt.com/products/viewports-3"
+  },
+  {
+    "name": "Buglife",
+    "overview": "Buglife is a mobile bug reporting software. It captures all related information like capture logs, network info and routes it to Jira or Slack to provide developers with rich bug reports in the reporting tools they are used to using.",
+    "type": "Bug reporting tools,Slack apps,Team collaboration software",
+    "url": "https://www.producthunt.com/products/buglife"
+  },
+  {
+    "name": "CloseKit",
+    "overview": "Everything you need to do B2B outreach in one place. CloseKit puts everything you need to do B2B outreach in one place. Save yourself from the chaos - Unify your entire outbound sales workflow in one chrome extension, 1 click away.",
+    "type": "CRM software,Chrome Extensions,Lead generation software",
+    "url": "https://www.producthunt.com/products/closekit"
+  },
+  {
+    "name": "WPForms",
+    "overview": "WPForms is the best WordPress forms plugin, trusted by over 2,000,000+ users. Create powerful WordPress forms in minutes with our drag & drop form builder!",
+    "type": "Wordpress Plugins,Survey and form builders",
+    "url": "https://www.producthunt.com/products/wpforms"
+  },
+  {
+    "name": "Simple Poll",
+    "overview": "Simple and Native Polls for Slack. \"Essential Slack App\" #2 Social & Fun App #3 Project Management App Send any questions to support@simplepoll.freshdesk.com",
+    "type": "Slack apps,Team collaboration software,Project management software",
+    "url": "https://www.producthunt.com/products/simple-poll"
+  },
+  {
+    "name": "Craft",
+    "overview": "Craft is a suite of free plugins for Sketch and Photoshop to help you design better and faster from your design environment. Grab off the shelf assets, build rapid prototypes, and sync to InVision Cloud to share and collect feedback.",
+    "type": "Figma Plugins,Design resources,Design mockups",
+    "url": "https://www.producthunt.com/products/craft-2"
+  },
+  {
+    "name": "Design Sprint Kits",
+    "overview": "The Design Sprint Kit is an open-source resource for design leaders, product owners, developers or anyone who is learning about or running Design Sprints.",
+    "type": "Design resources,Product add-ons,Design & Creative",
+    "url": "https://www.producthunt.com/products/design-sprint-kits"
+  },
+  {
+    "name": "Xamin - WordPress Theme",
+    "overview": "The Premium 3D Icons Pack for Ultimate Business 3D assets are curated with style and purpose to boost conversion. The Premium 3D Icons Pack for Ultimate Business comes with more than 150+ 3D illustrations which can be instantly used and reused.",
+    "type": "Wordpress themes,Illustrations,Design resources",
+    "url": "https://www.producthunt.com/products/xamin-wordpress-theme"
+  },
+  {
+    "name": "Facebook PathPicker",
+    "overview": "",
+    "type": "Command line tools,Product add-ons",
+    "url": "https://www.producthunt.com/products/facebook-pathpicker"
+  },
+  {
+    "name": "Detox for Facebook",
+    "overview": "",
+    "type": "Social media management tools,Chrome Extensions",
+    "url": "https://www.producthunt.com/products/detox-for-facebook"
+  },
+  {
+    "name": "Worona",
+    "overview": "",
+    "type": "Wordpress Plugins,Website builders,Mobile editing apps",
+    "url": "https://www.producthunt.com/products/worona"
+  },
+  {
+    "name": "Walkie",
+    "overview": "",
+    "type": "Slack apps,Design resources",
+    "url": "https://www.producthunt.com/products/walkie"
+  },
+  {
+    "name": "RatherNice",
+    "overview": "",
+    "type": "Chrome Extensions,Web browsers",
+    "url": "https://www.producthunt.com/products/rathernice"
+  },
+  {
+    "name": "Touch Bar Nyancat",
+    "overview": "",
+    "type": "Chrome Extensions,Apps for kids,Design & Creative",
+    "url": "https://www.producthunt.com/products/touch-bar-nyancat"
+  },
+  {
+    "name": "Sketch Syntax Highlighter",
+    "overview": "Syntax Highlighter is a plugin for Sketch that highlights code snippets directly in Sketch Text Layers. It supports 170+ languages and comes with more than 70 themes, including popular ones like Monokai, Tomorrow Night or Solarized. Happy Highlighting!",
+    "type": "Figma Plugins,Code editors,Design resources",
+    "url": "https://www.producthunt.com/products/sketch-syntax-highlighter"
+  },
+  {
+    "name": "Checkbot for Chrome Beta",
+    "overview": "Checkbot for Chrome tests if your website follows 50+ web best practices that boost SEO, speed and security. Effortlessly test 1,000s of pages in minutes: uncover broken links, duplicate content, invalid HTML/CSS/JavaScript, insecure pages, performance killing redirects and more. Free while in beta! Try Checkbot now and share your feedback. \ud83d\ude04",
+    "type": "Best SEO tools,Chrome Extensions,Website analytics",
+    "url": "https://www.producthunt.com/products/checkbot-for-chrome-beta"
+  },
+  {
+    "name": "Mupixa",
+    "overview": "From design prototypes and surveys to live marketing campaigns. Each interaction is valuable. Learn from it!",
+    "type": "User research,Figma Plugins,No-code platforms",
+    "url": "https://www.producthunt.com/products/mupixa"
+  },
+  {
+    "name": "Tweetbot 5",
+    "overview": "What's new in Tweetbot 5: - GIF support in compose view (Powered by Giphy). - Redesigned profiles. - Redesigned tweet status details. - New iconography and app icon. - Optimized dark theme for OLED displays. - Support for haptic feedback. - Auto video playback in the timeline (which can be disabled in the settings).",
+    "type": "Twitter apps,Social media management tools,Mobile editing apps",
+    "url": "https://www.producthunt.com/products/tweetbot-5"
+  },
+  {
+    "name": "Minimo",
+    "overview": "Minimo displays useful information at a glance, shortcuts to your favorite websites, and synced tabs from your mobile devices. It's also fully open-source, does not collect any information, and requires basically no configuration \u2013 although it can be customized.",
+    "type": "Chrome Extensions,Web browsers",
+    "url": "https://www.producthunt.com/products/minimo"
+  },
+  {
+    "name": "Flowbase",
+    "overview": "Flowbase is a curated collection of assets, templates & guides from and for the Webflow community. Easily sort through clone-able products that are usable in your own web projects, or maybe learn something new with a guide. Updated Regularly! Thanks!",
+    "type": "Design resources,Website builders,Figma Templates",
+    "url": "https://www.producthunt.com/products/flowbase"
+  },
+  {
+    "name": "Arvia for Slack",
+    "overview": "arvia.chat offers free, one-click video conferences right in your browser without requiring PIN codes or additional software. This lets your team use the /arvia slash command to start a video meeting in your channel, making it easy for others to join the call.",
+    "type": "Slack apps,Team collaboration software,Video and Voice calling",
+    "url": "https://www.producthunt.com/products/arvia-for-slack"
+  },
+  {
+    "name": "Sketch Manager",
+    "overview": "Use Sketch Manager to speed up your daily workflow. Whether you want to change a Text Style or a Symbol, you can now all do it in one plugin. - Create folders - Rename items - Find unused symbols & styles - Delete items - Duplicate symbols & styles",
+    "type": "Design resources,Interface design tools,Figma Plugins",
+    "url": "https://www.producthunt.com/products/sketch-manager"
+  },
+  {
+    "name": "Twizzle",
+    "overview": "The main purpose of Twizzle is to be a standalone messenger for Twitter. It supports everything that messages on Twitter support: gifs, images, stickers, etc. You can also send tweets directly from the menu bar. You can attach images, gifs, polls, etc.",
+    "type": "Twitter apps,Messaging apps,Social Networking",
+    "url": "https://www.producthunt.com/products/twizzle-2"
+  },
+  {
+    "name": "Waymark",
+    "overview": "Waymark allows anyone to create a beautiful, simple and easy to understand product roadmap. Download as PNG, use anywhere.",
+    "type": "Presentation Software,Design resources,Product add-ons",
+    "url": "https://www.producthunt.com/products/waymark-2"
+  },
+  {
+    "name": "Devsync",
+    "overview": "A Webflow-like visual editor (Chrome Devtools extension) that live-syncs edits with your code editor. Apply CSS edits visually in real-time and style your page without writing CSS.",
+    "type": "Chrome Extensions,Code editors,Design resources",
+    "url": "https://www.producthunt.com/products/devsync"
+  },
+  {
+    "name": "Filter - Figma Plugin",
+    "overview": "More than 50 custom filters are available! The plugin allows you to edit the applied filters.",
+    "type": "Figma Plugins",
+    "url": "https://www.producthunt.com/products/filter-figma-plugin"
+  },
+  {
+    "name": "Trim",
+    "overview": "No more wasting time deciding what to watch on Netflix. This Chrome extension makes IMDB and rotten tomato ratings appear right on the Netflix page. Try it today!",
+    "type": "Chrome Extensions,Video and Voice calling",
+    "url": "https://www.producthunt.com/products/trim-4"
+  },
+  {
+    "name": "Sidequest for Slack",
+    "overview": "Sidequest enables you to easily create, receive and track personal and support team tasks entirely inside Slack, combining the best features of traditional ticketing systems and modern task managers.",
+    "type": "Slack apps",
+    "url": "https://www.producthunt.com/products/sidequest-for-slack"
+  },
+  {
+    "name": "The Icon of",
+    "overview": "Good news everyone. I'm more than happy to introduce you The Icon of as a plugin for Figma. Full premium collection contains more than 1100 pixel perfect icons divided into 23 categories. Freebie is limited to 120 icons including all corona related ones.",
+    "type": "Figma Plugins,Icon sets",
+    "url": "https://www.producthunt.com/products/the-icon-of"
+  },
+  {
+    "name": "Humanotion",
+    "overview": "Free pack of 192 avatars and 6 colored backgrounds. Perfect for Notion.",
+    "type": "Icon sets,Avatar generators,Notion Templates,Background removal tools",
+    "url": "https://www.producthunt.com/products/humanotion"
+  },
+  {
+    "name": "Notion Zettelk\u00e4sten",
+    "overview": "\ud83d\udcda Remember everything you learn and read \ud83e\udde0 Create an interactive extension of your brain that creates links between ideas \ud83d\udd8b Start writing your book without feeling like you're writing \ud83d\udca1 Have an ever growing pool of ideas for new content",
+    "type": "Notion Templates",
+    "url": "https://www.producthunt.com/products/notion-zettelkasten"
+  },
+  {
+    "name": "Incognito for Slack",
+    "overview": "Create a feedback environment where everyone feels \ud83d\udd12 Safe, \ud83d\udce2Heard, \ud83d\ude80 Engaged Drive employee engagement by giving team members an anonymous Slack alias to voice honest feedback with: \u2022 Polls/Pulse Surveys \u2022 Suggestion Box \u2022 Public Q&A Channels \u2022 Peer Recognition Amp up these tools with Leadership Responses, Feedback Rewards, and Feedback Fridays.",
+    "type": "Slack apps",
+    "url": "https://www.producthunt.com/products/incognito-for-slack"
+  },
+  {
+    "name": "The Ultimate Notionpedia",
+    "overview": "Skip spending hundreds of dollars on overpriced Notion courses. Get a free Notion template that teaches all of Notion in one page. Vetted by 1500+ Notion subscribers and 750 Reddit upvotes, this template has helped hundreds skip the Notion learning curve.",
+    "type": "Notion Templates",
+    "url": "https://www.producthunt.com/products/the-ultimate-notionpedia"
+  },
+  {
+    "name": "Document Kit for PM & UI/UX Designer",
+    "overview": "Introducing the Document Kit, a full set of Resource Template that make it easy to build, research or design a fully digital product. - 6 main phases - Showcase for each step - 25+ of customizable all documents - Regularly update the newest document templates",
+    "type": "Notion Templates",
+    "url": "https://www.producthunt.com/products/document-kit-for-pm-ui-ux-designer"
+  },
+  {
+    "name": "InstaHues",
+    "overview": "InstaHues is a collection of beautiful color palettes and gradients palettes created by its users to make your awesome projects more awesome!",
+    "type": "Figma Plugins",
+    "url": "https://www.producthunt.com/products/instahues"
+  },
+  {
+    "name": "Notion Note-Taking Toolkit",
+    "overview": "This template bundle is designed to help you get started quickly with digital note taking in Notion. Based on Cornell method and comes in 5+ premade templates.",
+    "type": "Notion Templates",
+    "url": "https://www.producthunt.com/products/notion-note-taking-toolkit"
+  },
+  {
+    "name": "TaCo",
+    "overview": "An AI conversation hub. Manage all professional communication from Gmail, Slack to LinkedIn and WhatsApp in one place. AI-driven backend to find important messages, in-app native replies, reminder, task management and calendar view.",
+    "type": "Slack apps",
+    "url": "https://www.producthunt.com/products/taco-2"
+  },
+  {
+    "name": "Sets",
+    "overview": "Sets is an add on for Slack that creates a community portal. It features: Simple profiles for members to find people with similar interests A wiki for your members to share resources A calendar of events that keeps your community up to date",
+    "type": "Community management,Slack apps",
+    "url": "https://www.producthunt.com/products/sets-3"
+  },
+  {
+    "name": "Figma Template for Notion Creators",
+    "overview": "This Figma template will help you create your visuals for Notion marketplaces in less than 10 minutes. It include 4 differents layouts and all the markeplaces requirements you need.",
+    "type": "Figma Templates",
+    "url": "https://www.producthunt.com/products/figma-template-for-notion-creators"
+  },
+  {
+    "name": "Thread reader",
+    "overview": "Thread reader helps to read Twitter threads productively as never before without any distraction. Using thread reader you can convert your long Twitter threads to blogs easily by exporting all text just with a click.",
+    "type": "Twitter apps",
+    "url": "https://www.producthunt.com/products/thread-reader-2"
+  },
+  {
+    "name": "TweetPics",
+    "overview": "Add a unique brand to your images to make them really pop on Twitter. Adding a colorful frame to your images with TweetPics will help you define a consistent style that your followers will recognize.",
+    "type": "Twitter apps,Photo editing,Social media management tools",
+    "url": "https://www.producthunt.com/products/tweetpics"
+  },
+  {
+    "name": "VirtualCoffee",
+    "overview": "Introduce teammates 1v1, skip the tension of awkward small talk, and build healthy connections - all inside Slack. VirtualCoffee helps you engage beyond your screens, enabling you to connect with your teammates and get to know them better.",
+    "type": "Slack apps",
+    "url": "https://www.producthunt.com/products/virtualcoffee"
+  },
+  {
+    "name": "Notion Student Pack",
+    "overview": "All the tools, templates and dashboards you need to start organising your school life. 1 Student Hub, 3 Boards 10+ Tools 10+ Templates 40+ Curated Apps for Students",
+    "type": "Notion Templates",
+    "url": "https://www.producthunt.com/products/notion-student-pack"
+  },
+  {
+    "name": "Booksmart Views Figma Plugin",
+    "overview": "Figma Views lets you bookmark the areas of interest in your canvas. Use it to organize stuff you want to revisit like mapping the main parts of your file. But it shines when you're screen sharing \u2728 It minimizes frantic cursors and all the panning and zooming.",
+    "type": "Figma Plugins",
+    "url": "https://www.producthunt.com/products/views-figma-plugin"
+  },
+  {
+    "name": "New Hire Buddy for Slack",
+    "overview": "New Hire Buddy is your antidote for boring intro meetings. Get your new hires to connect, bond, and thrive with their teammates in a meaningful way. Break silos with group DMs in Slack, and connect new hires with their colleagues in a fun, interactive way.",
+    "type": "Slack apps",
+    "url": "https://www.producthunt.com/products/new-hire-buddy-for-slack"
+  },
+  {
+    "name": "700+ Twitter Swipe File",
+    "overview": "The swipe file contains 700+ tweets that people posted so you can rewrite them in your own niche. Over my 6 months of journey on Twitter, I went from 0 to 1,000. I have tried multiple formats to see what format works well.",
+    "type": "Twitter apps",
+    "url": "https://www.producthunt.com/products/700-twitter-swipe-file"
+  },
+  {
+    "name": "Bridge",
+    "overview": "As work shifts from the office to the browser, we need to rethink how we access our networks. The Bridge Chrome extension brings your network into the browser, helping you access dream customers, great investors, top talent and knowledge from anywhere.",
+    "type": "Professional networking platforms,Lead generation software,Chrome Extensions",
+    "url": "https://www.producthunt.com/products/bridge-11"
+  },
+  {
+    "name": "Notion Scrum - Template",
+    "overview": "Ready-to-use Scrum board directly on Notion. Replace Jira and start your first sprint within 5 minutes. \u26a1\ufe0f Increase collaboration with a visual board \ud83d\ude80 Manage your backlog in a seamless way \ud83d\udcc8 Make your ceremonies more productive Today, get a 30% discount with this promo code: LAUNCH22",
+    "type": "Notion Templates",
+    "url": "https://www.producthunt.com/products/notion-scrum-template"
+  },
+  {
+    "name": "Easy Form Builder",
+    "overview": "A new Easy Form Builder version is available - Version 2.0.0 \ud83c\udf89 Packed with a bunch of new features, improvements and fixes! Explore it all in wordpress.org : https://wordpress.org/plugins/easy-form-builder/",
+    "type": "Wordpress Plugins",
+    "url": "https://www.producthunt.com/products/easy-form-builder"
+  },
+  {
+    "name": "Seasonal Profiles for Twitter",
+    "overview": "Set a dynamic Twitter profile (name, bio, location, url, avatar, cover). You pick the date, time and profile. We automate the rest by scheduling the profile annually!",
+    "type": "Twitter apps,Social media scheduling tools,Automation tools",
+    "url": "https://www.producthunt.com/products/seasonal-profiles-for-twitter"
+  },
+  {
+    "name": "Twitter for Noobs",
+    "overview": "Twitter for Noobs is an all-in-one Growth Framework, that I used to grow from 0-11k Followers in 6 months. It's a skip-the-line ticket focussing on the core elements: Profile, Tweets, Engagement, and Growth along with essential resources. Grow your Twitter strategically. Easier, than ever before!",
+    "type": "Twitter apps",
+    "url": "https://www.producthunt.com/products/twitter-for-noobs"
+  },
+  {
+    "name": "Scribe AI",
+    "overview": "With Scribe AI you can apply text to one or multiple layers in Figma at the same time. Whether you are working on a pitch deck, marketing site, app, or website design, Sribe AI makes it easier to create better copy faster.",
+    "type": "Figma Plugins",
+    "url": "https://www.producthunt.com/products/writer-4"
+  },
+  {
+    "name": "The Dream Board",
+    "overview": "This powerful and easy-to-use template will help you stay organized and motivated to reach your goals. The Dream Board helps you to easily map out, categorize, and prioritize your various goals.",
+    "type": "Notion Templates",
+    "url": "https://www.producthunt.com/products/the-dream-board"
+  },
+  {
+    "name": "Pookiy Bot for Slack",
+    "overview": "Gain better visibility into your team's productivity by tracking employee work hours and managing time off requests. Track your team work hours effortlessly with real-time reporting and manage team leave requests with an easier approval system",
+    "type": "Slack apps",
+    "url": "https://www.producthunt.com/products/pookiy-bot-for-slack"
+  },
+  {
+    "name": "Snoopstein",
+    "overview": "Post any Tweet mentioning @snoop_stein, and you\u2019ll get a response from our GPT-4 powered rapping physicist Learn how to build one yourself and give it your own personality--> mdb.ai/bot",
+    "type": "AI Chatbots,Twitter apps,ChatGPT Prompts",
+    "url": "https://www.producthunt.com/products/snoopstein"
+  },
+  {
+    "name": "Comment Generator for Instagram",
+    "overview": "Coming up with original ways to engage and comment on Instagram can be really time-consuming. While automating commenting can be a useful way to save time and manage your social media presence, it\u2019s important to maintain authenticity when doing so. That's why I built Comment Generator. A Chrome extension that helps you write genuine, authentic comments with ease.",
+    "type": "Note and writing apps,Social Networking,Chrome Extensions",
+    "url": "https://www.producthunt.com/products/comment-generator"
+  },
+  {
+    "name": "inrich",
+    "overview": "inrich enables you to add information and context on LinkedIn profile pages, so that you never ever forget anything that might help you with your professional network. inrich is a free Google Chrome extension that transforms LinkedIn into your personal CRM.",
+    "type": "Professional networking platforms,Chrome Extensions,Note and writing apps",
+    "url": "https://www.producthunt.com/products/inrich"
+  },
+  {
+    "name": "Carbon Balance for WooCommerce",
+    "overview": "Empower your customers with climate-neutral orders in <15 mins using Carbon Balance's WordPress WooCommerce Plugin. Access easy, transparent tools for you and your customers to love.",
+    "type": "Wordpress Plugins",
+    "url": "https://www.producthunt.com/products/carbon-balance-for-woocommerce"
+  },
+  {
+    "name": "Notion Inventory Manager",
+    "overview": "All-in-one Notion template with databases for inventory, sales, purchases, suppliers, clients, and shipping companies. Streamline your inventory process with automatic calculations and order tracking. Perfect for small business owners.",
+    "type": "Notion Templates",
+    "url": "https://www.producthunt.com/products/notion-inventory-manager"
+  },
+  {
+    "name": "Copymate",
+    "overview": "Copymate is your ultimate solution to effortlessly create dozens of high-quality, long-term and SEO optimized articles in just minutes! Publish created content directly to your WordPress site. Write content using the latest language model from OpenAI.",
+    "type": "Writing assistants,AI Coding Assistants,Best SEO tools,Wordpress Plugins",
+    "url": "https://www.producthunt.com/products/copymate"
+  },
+  {
+    "name": "Notion 95",
+    "overview": "Introducing Notion95 \ud83d\udc47 Take a trip down memory lane with our free Windows 95 themed Notion template.",
+    "type": "Notion Templates",
+    "url": "https://www.producthunt.com/products/notion-95"
+  },
+  {
+    "name": "Startup Cards",
+    "overview": "Startup Cards is a WordPress plugin that captures and highlights the most relevant information on startups. Its cloud-based ecosystem allows a real-time reflection of the latest updates on our database over the cards deployed on websites.",
+    "type": "Wordpress Plugins",
+    "url": "https://www.producthunt.com/products/startup-cards"
+  },
+  {
+    "name": "Spicom",
+    "overview": "Spicom is the simplest, most powerful, and fastest way to create and launch a WordPress website, delivering ready-to-use websites with just one click, without the need for complex technical knowledge or spending time on peripheral tasks.",
+    "type": "Wordpress themes,Design inspiration websites,Marketplace sites",
+    "url": "https://www.producthunt.com/products/spicom"
+  },
+  {
+    "name": "CreatorOS | Notion System",
+    "overview": "CreatorOS is the ultimate Notion dashboard for digital creators to collect new ideas, create value driven content and manage incredible products.",
+    "type": "Project management software,Team collaboration software,Work & Productivity,Notion Templates",
+    "url": "https://www.producthunt.com/products/creatoros-notion-system"
+  },
+  {
+    "name": "Wisely",
+    "overview": "Our AI assistant analyzes any Amazon product page you visit, and provides you with quick product insights: top pros and cons from reviews, notable features, and potential shortcomings. Save hours in research, uncover product issues, and start shopping wisely.",
+    "type": "Chrome Extensions,AI Chatbots,Marketplace sites",
+    "url": "https://www.producthunt.com/products/shop-wisely"
+  },
+  {
+    "name": "Arvin 3.0",
+    "overview": "Arvin 3.0 is the ultimate Chrome Extension that grants you instant access to GPT-4, enabling you to tap into the latest and most accurate information from the web, right at your fingertips.",
+    "type": "AI Chatbots,Chrome Extensions,Note and writing apps",
+    "url": "https://www.producthunt.com/products/arvin-3-0"
+  },
+  {
+    "name": "Sidenote AI",
+    "overview": "Sidenote is a Chrome extension that turns meeting notes into drafted emails, calendar invites, tickets, and reminders.",
+    "type": "Chrome Extensions,Meeting software,Automation tools",
+    "url": "https://www.producthunt.com/products/sidenote-ai"
+  },
+  {
+    "name": "Filter Gallery Pro",
+    "overview": "Filter Gallery Pro: Effortlessly create filterable galleries on your WordPress site. Parent & child filters, load more options, internal & external links, and a dynamic lightbox feature for a better viewing experience.",
+    "type": "Wordpress Plugins",
+    "url": "https://www.producthunt.com/products/filter-gallery-pro"
+  },
+  {
+    "name": "Launchboard",
+    "overview": "A Notion virtual assistant for marketers, to manage product launches at one place. Align teams, create assets & project manage launch campaigns without back & forth. It's your all-in-one automated project management, team wiki and communication tool.",
+    "type": "Project management software,Notion Templates",
+    "url": "https://www.producthunt.com/products/launchboard"
+  },
+  {
+    "name": "Journal BuddyAI",
+    "overview": "Journaling can be difficult if you don't know the right questions to ask yourself. Journal BuddyAI is your assistant that uses Notion AI to generate relevant and thought-provoking questions tailored to your journal topic and mood so you can focus on writing.",
+    "type": "Note and writing apps,Notion Templates",
+    "url": "https://www.producthunt.com/products/journal-buddyai"
+  },
+  {
+    "name": "Notion to Chatbot",
+    "overview": "Create an AI Chatbot using notion document",
+    "type": "AI Chatbots,Notion Templates",
+    "url": "https://www.producthunt.com/products/notiontochatbot"
+  },
+  {
+    "name": "QualityEssay",
+    "overview": "Custom essay writing service: quality online essays, research papers, term papers",
+    "type": "Chrome Extensions",
+    "url": "https://www.producthunt.com/products/qualityessay"
+  },
+  {
+    "name": "Stay Tab",
+    "overview": "Stay is a simple and efficient tool that provides you with various functions to make your work more efficient and enjoyable. Not only can you customize the background, but also have notes, to-do items, and BlockSite",
+    "type": "Chrome Extensions",
+    "url": "https://www.producthunt.com/products/stay-tab"
+  },
+  {
+    "name": "TwGPT (Open-Source Extension)",
+    "overview": "Do you want to reply to all those tweets to maximize engagement, but find it challenging due to fatigue or a busy schedule? \ud83d\ude22 With TwGPT, say goodbye to hours of thinking and manually writing replies and say hello to a GPT-powered instant reply assistant \ud83d\udcaa.",
+    "type": "Social Networking,LLMs,Chrome Extensions",
+    "url": "https://www.producthunt.com/products/twgpt-open-source-extension"
+  },
+  {
+    "name": "AI Easy Content Studio",
+    "overview": "Level up your content creation with AI-powered system: build your Strategy, Automated Scheduling & Planner, Posts Generator, Task manager - all in one place.",
+    "type": "Notion Templates",
+    "url": "https://www.producthunt.com/products/ai-easy-content-studio"
+  },
+  {
+    "name": "Sumz.AI",
+    "overview": "Revolutionize online shopping with Sumz.AI! Instantly summarize Amazon reviews using advanced NLP. Discover key sentiments, pros, cons, and make informed decisions. Trustworthy insights from real customers. Install now for a simplified shopping experience.",
+    "type": "Chrome Extensions,Shopping",
+    "url": "https://www.producthunt.com/products/sumz-ai"
+  },
+  {
+    "name": "Minimal Theme for LinkedIn",
+    "overview": "A free Chrome extension to make your LinkedIn experience 10x more beautiful. - Hide ads - Simplify the navigation menu - Hide left and ride panes if not useful - Hide the messaging windows",
+    "type": "Chrome Extensions,Ad blockers,Professional networking platforms",
+    "url": "https://www.producthunt.com/products/minimal-theme-for-linkedin"
+  },
+  {
+    "name": "Harmony: Accessible UI Color Palette",
+    "overview": "Harmony, a UI color palette prioritizing accessibility, utilizes advanced color tech and features, serving as a reliable companion for design systems. Access it for free as a Figma file and npm package.",
+    "type": "Design resources,Graphic design tools,Interface design tools,Figma Plugins",
+    "url": "https://www.producthunt.com/products/harmony-accessible-ui-color-palette"
+  },
+  {
+    "name": "Persuwise",
+    "overview": "Persuwise: \ud83d\ude80Craft persuasive email effortlessly! - Profile Enrichment: Gain 360\u00b0 prospect overview. - AI Profile Insights: Understand motivations & company dynamics. - AI Email Generation: Craft AI-personalized emails instantly. - Writing Assistant: optimize every emails for clarity, persuasion & engagement. \ud83d\udce9 Gmail Ready. \ud83c\udf81 Free Trial. Designed for sales, focusing on genuine connections. Explore Persuwise and revolutionize your email outreach!",
+    "type": "Chrome Extensions,Business intelligence software,Sales training",
+    "url": "https://www.producthunt.com/products/persuwise"
+  },
+  {
+    "name": "TurboAnimator for Google Slides",
+    "overview": "A browser extension that lets you automate animation-related tasks in Google Slides with simple key combinations.",
+    "type": "Presentation Software,Chrome Extensions",
+    "url": "https://www.producthunt.com/products/turboanimator-for-google-slides"
+  },
+  {
+    "name": "Shaka",
+    "overview": "Happy teams use Shaka! \ud83e\udd19 Whether it\u2019s through peer recognition, coffee chats, competitive challenges, or quick hits of wellness content, Shaka brings your team together with every bite-sized interaction. Try Shaka for free for Slack or Teams today!",
+    "type": "Professional networking platforms,Activity tracking,Meeting software,Team collaboration software,Slack apps,Work & Productivity",
+    "url": "https://www.producthunt.com/products/shaka"
+  },
+  {
+    "name": "OpenLanguage",
+    "overview": "OpenLanguage will help you translate English content on any webpage&YouTube video instantly in just one click. It provides features such as Select to translate, Focus Mode, Bilingual Mode and AI-powered Summaries to help you learn English efficiently!",
+    "type": "Knowledge base software,Chrome Extensions",
+    "url": "https://www.producthunt.com/products/openlanguage"
+  },
+  {
+    "name": "My Web Shortcuts",
+    "overview": "Introducing My Web Shortcuts \ud83c\udf0f\ud83d\udcbb, A cool free & open-source extension that lets you create your own keyboard shortcuts for any website. No more endless clicking around; now you can click or focus elements using simple keyboard strokes. \ud83d\ude09",
+    "type": "Chrome Extensions",
+    "url": "https://www.producthunt.com/products/my-web-shortcuts"
+  },
+  {
+    "name": "Zyft",
+    "overview": "Zyft is a browser extension that compares prices from multiple retailers when you shop online. Zyft also shows stock levels and Price history",
+    "type": "Chrome Extensions,Search,Shopping",
+    "url": "https://www.producthunt.com/products/zyft"
+  },
+  {
+    "name": "Figarc",
+    "overview": "A design system in Figma, but for floor plans. Drag furniture pieces as components, adjust furniture details as overrides, and change themes with variables modes. Why learn Autocad or Archicad when you can play an architect in your favorite software?",
+    "type": "Figma Templates,Design resources,Real estate",
+    "url": "https://www.producthunt.com/products/figarc"
+  },
+  {
+    "name": "Rewrite.blog",
+    "overview": "Leverage the power of Notion with an Email API. Collect, Manage & Send Emails in 5 lines of code",
+    "type": "Notion Templates",
+    "url": "https://www.producthunt.com/products/rewrite-blog"
+  },
+  {
+    "name": "Textile",
+    "overview": "What is Textile? It is a text-friendly tool for interface design that allows editing interface texts apart from Figma. No reason to interrupt designers anymore. Try for free.",
+    "type": "Note and writing apps,Interface design tools,Figma Plugins",
+    "url": "https://www.producthunt.com/products/textile"
+  },
+  {
+    "name": "Potion",
+    "overview": "Potion lets you create modern email templates without battling archaic drag-and-drop editors. Modelled after the intuitive UX of Notion, and the extensibility of Figma with AI-powered autocompletion \u2728",
+    "type": "ChatGPT Prompts,Email marketing,Interface design tools,AI,Figma Plugins",
+    "url": "https://www.producthunt.com/products/potion-4"
+  },
+  {
+    "name": "ViZBL",
+    "overview": "Ever wondered what your friends watch on YouTube? Well, the ViZBL Extension allows you to share that!",
+    "type": "Social Networking,Chrome Extensions",
+    "url": "https://www.producthunt.com/products/vizbl"
+  },
+  {
+    "name": "Kerlig AI",
+    "overview": "Write replies on Slack and Mail using your tone of voice. Fix spelling before sending a message. Summarize websites and articles. Chat with PDFs and documents. Improve copy in Figma. Translate to any language. Change tone and more!",
+    "type": "Writing assistants,LLMs,Slack apps",
+    "url": "https://www.producthunt.com/products/kerlig-ai"
+  },
+  {
+    "name": "VCCGenerator",
+    "overview": "VCCGenerator is a tool that allows you to generate virtual credit card numbers instantly for testing and other purposes. It supports various card types, including Visa, Mastercard, and more, making it perfect for developers and testers.",
+    "type": "Work & Productivity,Engineering & Development,Product add-ons",
+    "url": "https://www.producthunt.com/products/vccgenerator"
+  },
+  {
+    "name": "AIScraper",
+    "overview": "AIScraper Extension lets you scrape structured data from any website with just a few clicks, featuring AI-powered modifications and analysis on the fly",
+    "type": "Chrome Extensions",
+    "url": "https://www.producthunt.com/products/aiscraper"
+  },
+  {
+    "name": "MyFeedIn",
+    "overview": "MyFeedIn lets you create custom LinkedIn feeds by selecting creators whose content you enjoy. By focusing on these tailored feeds, you engage more meaningfully, build stronger connections, and get more value from your LinkedIn activity.",
+    "type": "Chrome Extensions,Social & Community,Social media management tools",
+    "url": "https://www.producthunt.com/products/myfeedin"
+  },
+  {
+    "name": "CMS Bridge by Finsweet",
+    "overview": "Control Webflow CMS directly from Airtable. You can target individual records to Sync and control their Webflow CMS item state. Store tokens securely in your Finsweet Account and under 1 subscription, you can Sync unlimited Webflow websites & Airtable bases.",
+    "type": "No-code platforms,Product add-ons",
+    "url": "https://www.producthunt.com/products/cms-bridge-by-finsweet"
+  },
+  {
+    "name": "File Manager For Dropbox",
+    "overview": "Manage and display Dropbox files on your WordPress site! Integrate Dropbox plugin for WordPress offers seamless file management making it perfect for WordPress users. \u2728Key Features User-Specific Folders: Set up folders specific to individual users Auto Sync/Update: Automatically (1-3 mins) sync and update new images to web pages Media Library Integration: Seamlessly integrates with WordPress media library. Classic, Elementor & Gutenberg Editor Support. WooCommerce Support. LMS Integration.",
+    "type": "Wordpress Plugins,File storage and sharing apps",
+    "url": "https://www.producthunt.com/products/integrate-dropbox"
+  },
+  {
+    "name": "Dino Swords",
+    "overview": "Little Arms, Big Guns",
+    "type": "Chrome Extensions,Games",
+    "url": "https://www.producthunt.com/products/dino-swords"
+  },
+  {
+    "name": "Keywords Everywhere",
+    "overview": "Keywords Everywhere is a browser add-on for Chrome & Firefox that shows search volume, CPC & competition on multiple websites.",
+    "type": "Best SEO tools,Keyword research tools,Chrome Extensions",
+    "url": "https://www.producthunt.com/products/keywords-everywhere"
+  },
+  {
+    "name": "10Web AI Assistant for WordPress",
+    "overview": "Leverage the power of AI to write and perfect SEO-optimized content, without leaving your Gutenberg or Classic Editor.",
+    "type": "AI,Wordpress Plugins,Writing assistants",
+    "url": "https://www.producthunt.com/products/10web-ai-assistant-for-wordpress"
+  },
+  {
+    "name": "Measure",
+    "overview": "Measure helps you with quick, everyday measurements around the house or office. Similar to a tape measure. With the Measure app, you can: - Measure the length and height of objects in the real world like width of a cabinet, or the height of a table - Switch between imperial and metric units - Save photos of your measurements for later",
+    "type": "Camera apps,Mobile editing apps,Product add-ons",
+    "url": "https://www.producthunt.com/products/measure-2"
+  },
+  {
+    "name": "Unsplash for Figma",
+    "overview": "Unsplash for Figma brings millions of beautiful free images right into Figma. Insert a random image or search for something specific without ever leaving your canvas. \u21aa https://medium.com/unsplash/unsplash-figma-cf03195e9f9a",
+    "type": "Figma Plugins,Design resources,Stock photo sites",
+    "url": "https://www.producthunt.com/products/unsplash-for-figma"
+  },
+  {
+    "name": "UI/UX Assets",
+    "overview": "UI/UX Assets is a marketplace with curated design assets, resources and tools for user interface and user experience designers. We work to create the highest quality assets, ranging from UI kits, wireframe kits and HTML templates for Sketch and Figma.",
+    "type": "Design resources,Figma Templates,Wireframing",
+    "url": "https://www.producthunt.com/products/ui-ux-assets"
+  },
+  {
+    "name": "JSON Hero Chrome extension",
+    "overview": "The new JSON Hero Chrome extension lets you easily use JSON Hero from Chrome for plain JSON blobs. Or extract and open Firestore documents, Github files, and Open Graph metadata. And since JSON Hero is open source, you can even point to your own instance.",
+    "type": "Chrome Extensions",
+    "url": "https://www.producthunt.com/products/json-hero-chrome-extension"
+  },
+  {
+    "name": "Dynamic Twitter Banner",
+    "overview": "\ud83d\udc23&nbsp;Makers: Automatically display social proof and give thanks to your latest followers with this free tool. \ud83d\udd50&nbsp;How? Connect your Twitter account and get started right away. \ud83d\udcc8&nbsp;Increase your \u201cfollow ratio\u201d and grow your audience in a fun way.",
+    "type": "Twitter apps",
+    "url": "https://www.producthunt.com/products/dynamic-twitter-banner"
+  },
+  {
+    "name": "Pixelied Mockups",
+    "overview": "Pixelied presents its newly launched online mockups tool. Create immersive and realistic mockups with the help of thousands of fully customizable mockup templates. Be done with downloading any plugins, software, or Photoshop!",
+    "type": "Design mockups,Design resources,Figma Templates",
+    "url": "https://www.producthunt.com/products/pixelied-mockups"
+  },
+  {
+    "name": "TwitterGPT Chrome Extension",
+    "overview": "With this extensions you can get tweets drafted for you by AI Use the engine of ChatGPT to reply to tweets. Chose your writing style and respond. This chrome extension is useful for anyone trying to grow fast on twitter!",
+    "type": "Twitter apps",
+    "url": "https://www.producthunt.com/products/twittergpt-chrome-extension"
+  },
+  {
+    "name": "SaaS Library \u2014Empower Your Journey",
+    "overview": "Unlock the full potential of your SaaS ideas with SaaSLibrary's detailed product descriptions, all of which can be easily built with AI tools. Our platform offers a wealth of information on cutting-edge product ideas, including personas, marketing strategies, features, and revenue models.",
+    "type": "AI,Marketing & Sales,Product add-ons",
+    "url": "https://www.producthunt.com/products/saas-library-empower-your-journey"
+  },
+  {
+    "name": "Tweetstreak",
+    "overview": "You need to tweet and reply to grow your followers on Twitter, but remembering to do it is challenging. Tweetstreak helps you stay on-task and tracks your progress to get your first 5000 followers on Twitter. It's also free, so there's that (no catch!)",
+    "type": "Twitter apps",
+    "url": "https://www.producthunt.com/products/tweetstreak"
+  },
+  {
+    "name": "Ivory for Mac",
+    "overview": "Ivory is a brand new app that brings over a dozen years of experience building the award-winning Tweetbot for Twitter, over to the Mastodon network. We obsess over every detail and put good design and experience first. If you liked Tweetbot, you\u2019ll love Ivory!",
+    "type": "Social Networking,Twitter apps,Social & Community",
+    "url": "https://www.producthunt.com/products/ivory-for-mac"
+  },
+  {
+    "name": "DockX",
+    "overview": "DockX is a magic app that allows you to display anything in the Dock and Menu bar, just sneak a peek anytime without opening any app. Network speed, CPU/Memory usage, Date, Clock, Memo or funky GIFs animations.",
+    "type": "Presentation Software,Product add-ons,Work & Productivity",
+    "url": "https://www.producthunt.com/products/dockx"
+  },
+  {
+    "name": "Polly\u2014Build alignment with engaging Q&As",
+    "overview": "Run engaging All Hands events that tackle the most important conversations first. With Polly\u2019s Q&A you can easily address engagement disparities and moderation challenges in one easy-to-use platform.",
+    "type": "Slack apps,Video conferencing,Team collaboration software",
+    "url": "https://www.producthunt.com/products/polly-build-alignment-with-engaging-q-as"
+  },
+  {
+    "name": "VOC Octoparse",
+    "overview": "Elevate your review research with Octoparse VOC's AI-powered tools: product research, competitor analysis, sentiment analysis, customer Q&A highlights, and more!",
+    "type": "Business intelligence software,Chrome Extensions,AI Content Detection,Customer support tools,Product add-ons",
+    "url": "https://www.producthunt.com/products/octoparse-voc"
+  },
+  {
+    "name": "Thalion",
+    "overview": "Different Look at UX | Time Saving Toolkits Learn useful design tips. Get UX & UI Resources. Read inspiring articles. Blog for all designers who want to improve their skills and design better.",
+    "type": "Design inspiration websites,Interface design tools,Figma Templates,Design & Creative,Design resources",
+    "url": "https://www.producthunt.com/products/thalion"
+  },
+  {
+    "name": "Toolbox Pro",
+    "overview": "Toolbox Pro gives you 106 powerful new actions to use within Apple\u2019s Shortcuts app.",
+    "type": "Automation tools,Product add-ons",
+    "url": "https://www.producthunt.com/products/toolbox-pro"
+  },
+  {
+    "name": "Img Downloader",
+    "overview": "Imdownloader is an online tool that enables you to download images in bulk. It could run as Bulk image downloader, Google image Downloader, Pinterest image downloader and Instagram image downloader. It takes a few seconds to download all images from a URL.",
+    "type": "Screenshots and screen recording apps,Photo sharing,Chrome Extensions",
+    "url": "https://www.producthunt.com/products/img-downloader"
+  },
+  {
+    "name": "Kolsquare Chrome Extension",
+    "overview": "Kolsquare is the leading influence marketing platform for B2C Brands & Enterprises in Europe. \ud83c\udfafIdentify the most relevant influencers for your campaigns \ud83d\ude0eManage your campaigns with peace of mind \ud83d\udcc8Measure the full performance of your campaigns",
+    "type": "Influencer marketing platforms,Chrome Extensions,Advertising tools",
+    "url": "https://www.producthunt.com/products/kolsquare-chrome-extension"
+  },
+  {
+    "name": "ChatBotKit",
+    "overview": "ChatBotKit helps you create conversational AI chatbots with your own data to communicate naturally with users on your website, Slack, and Discord.",
+    "type": "AI Chatbots,LLMs,Slack apps,Customer support tools",
+    "url": "https://www.producthunt.com/products/chatbotkit"
+  },
+  {
+    "name": "HeyTaco!",
+    "overview": "",
+    "type": "Team collaboration software,Work & Productivity,Slack apps",
+    "url": "https://www.producthunt.com/products/heytaco"
+  },
+  {
+    "name": "Room Steals",
+    "overview": "Stop searching every site for the best price on amazing hotels. Use our Chrome extension and we'll show you the best room rates available for the hotel you're already looking at.",
+    "type": "Travel,Chrome Extensions,Hotel booking app",
+    "url": "https://www.producthunt.com/products/room-steals"
+  },
+  {
+    "name": "UI Design System",
+    "overview": "",
+    "type": "Interface design tools,Design resources,Figma Templates",
+    "url": "https://www.producthunt.com/products/ui-design-system"
+  },
+  {
+    "name": "Never Ending Netflix",
+    "overview": "NEN is a chrome extension that improves the Netflix experience for power users. It's features include: Automatically skip intros Automatically play the next episode Skip the popups that ask if you're \"Still here?\" after 8 hours Search all of Netflix's genre's",
+    "type": "Chrome Extensions,Ad blockers,Video and Voice calling",
+    "url": "https://www.producthunt.com/products/never-ending-netflix"
+  },
+  {
+    "name": "ShareUrl",
+    "overview": "ShareUrl is Chrome extension which allows users to share their various accounts (Netflix,Hotstar, Hulu, Facebook etc.) with their friends and families. Work's on Chrome. Simple to use. Share to multiple.",
+    "type": "Chrome Extensions,Password managers,Family",
+    "url": "https://www.producthunt.com/products/shareurl"
+  },
+  {
+    "name": "Figma Map Maker",
+    "overview": "Map Maker allows you to make a customized map blazing fast with no configuration! It's Easy to Use, and Fully Customizable!",
+    "type": "Figma Plugins",
+    "url": "https://www.producthunt.com/products/figma-map-maker"
+  },
+  {
+    "name": "Kizie for Twitter",
+    "overview": "Introducing Kizie, a new way to browse Twitter \ud83d\udc24 \u2728 cleaner, better, ad-free home and profile timelines \u26a1\ufe0f pro features to do more with twitter(read first comment for the list \ud83d\udc47) \ud83d\udcf1 works on web and as PWA \ud83d\udc49 try it: https://kizie.co",
+    "type": "Twitter apps",
+    "url": "https://www.producthunt.com/products/kizie-for-twitter"
+  },
+  {
+    "name": "Twitter Streak by Tweet Hunter",
+    "overview": "\ud83d\udc23&nbsp;Makers: Get serious about Twitter and drive results for your business and personal brand. \ud83d\udd50&nbsp;How?: Use Twitter Streak to get accountable and consistent. \ud83d\udcc8&nbsp;Stay motivated and stop forgetting. Use Twitter Streak to keep you on track to reach steady growth!",
+    "type": "Twitter apps,Social media management tools,Social Networking",
+    "url": "https://www.producthunt.com/products/twitter-streak-by-tweet-hunter"
+  },
+  {
+    "name": "Save99",
+    "overview": "Say goodbye to extra cents with Save99, the ultimate Chrome extension that rounds prices to whole numbers! Unrounded prices ($99.99) create a false perception of cheaper deals.",
+    "type": "Chrome Extensions,Shopping",
+    "url": "https://www.producthunt.com/products/save99"
+  },
+  {
+    "name": "Student OS",
+    "overview": "Your buddy in everyday Student life. Whether you're in school, college or university - this template is made for you. Keep everything organized in one place with Student OS.",
+    "type": "Calendar apps,Notion Templates,Note and writing apps,Online learning,Scheduling software",
+    "url": "https://www.producthunt.com/products/student-os-3"
+  },
+  {
+    "name": "Carden",
+    "overview": "Carden is a Chrome Extension that helps you turn the content you consume into long-term knowledge. Create flashcards in context, view in-depth stats, collect points and level up, and much more.",
+    "type": "Chrome Extensions,Online learning,Note and writing apps",
+    "url": "https://www.producthunt.com/products/carden"
+  },
+  {
+    "name": "Kiwi for Gmail",
+    "overview": "Distinct from what Gmail uses in the browser, we designed a powerful engine that allows multiple accounts to be used together with 100% fidelity and no conflicts. It works with Google Drive, Docs, Sheets, and Slides as well.",
+    "type": "Email clients,Product add-ons,Work & Productivity",
+    "url": "https://www.producthunt.com/products/kiwi-for-gmail"
+  },
+  {
+    "name": "Inboxer",
+    "overview": "Inboxer \u2014 is an unofficial Inbox by Gmail client for desktop platforms. It's built on top of Inbox by Gmail web-version, has pleasant UI and supports useful keyboard shortcuts.",
+    "type": "Email clients,Chrome Extensions",
+    "url": "https://www.producthunt.com/products/inboxer"
+  },
+  {
+    "name": "Journey",
+    "overview": "",
+    "type": "Note and writing apps,Mobile editing apps,Chrome Extensions",
+    "url": "https://www.producthunt.com/products/journey-5"
+  },
+  {
+    "name": "Jibble",
+    "overview": "jibble.io was first indexed by Google in September 2016",
+    "type": "Time tracking apps,Slack apps,Team collaboration software",
+    "url": "https://www.producthunt.com/products/jibble"
+  },
+  {
+    "name": "/meet for Slack",
+    "overview": "Generate your Google Meet links in Slack using /meet. \ud83d\ude80 Links open using the correct Google Account - no longer switch from personal to work (authuser issue!) \ud83d\ude80 Auto-update Slack status when joining a call \ud83d\ude80 Random movie quotes, customizable settings",
+    "type": "Slack apps",
+    "url": "https://www.producthunt.com/products/meet-for-slack-2"
+  },
+  {
+    "name": "Wordable.io",
+    "overview": "",
+    "type": "Blogging platforms,Wordpress Plugins,Note and writing apps",
+    "url": "https://www.producthunt.com/products/wordable-io"
+  },
+  {
+    "name": "BetaTesta",
+    "overview": "BetaTesta is a platform that helps you as makers get the valuable feedback you need as you develop your products.",
+    "type": "User research,Product add-ons,Project management software",
+    "url": "https://www.producthunt.com/products/betatesta"
+  },
+  {
+    "name": "HTML to Framer",
+    "overview": "Bring your own website into Framer with a few clicks. Once you have installed the extension, simply hover over any element such as text, images, buttons, or entire layouts. Click to copy, then go to Framer and press \u2318V (or Ctrl V on Windows) to paste.",
+    "type": "Chrome Extensions",
+    "url": "https://www.producthunt.com/products/html-to-framer"
+  },
+  {
+    "name": "Phew AI Tab",
+    "overview": "Phew AI Tab is a browser extension that manages numerous tabs in the sidebar through AI-based automatic grouping and spaces.",
+    "type": "Chrome Extensions,AI,App switcher",
+    "url": "https://www.producthunt.com/products/phew-ai-tab"
+  },
+  {
+    "name": "Textalytic",
+    "overview": "Natural Language Processing in the Browser - No more writing complex Python/R code or mastering various packages to get high-quality information from text",
+    "type": "AI,Chrome Extensions,AI Coding Assistants",
+    "url": "https://www.producthunt.com/products/textalytic"
+  },
+  {
+    "name": "Tailor",
+    "overview": "Build beautiful page layouts quickly and easily using your favourite #WordPress theme. For free!",
+    "type": "Wordpress themes,Website builders,Landing page builders",
+    "url": "https://www.producthunt.com/products/tailor"
+  },
+  {
+    "name": "CRXExtractor Band",
+    "overview": "CRX Extractor has been created with the help of an official Google ... Trevx is an online music downloader extension available in the chrome web store. chrome.",
+    "type": "Chrome Extensions,Code Review Tools",
+    "url": "https://www.producthunt.com/products/crxextractor-band"
+  },
+  {
+    "name": "Mindful Chrome Extension",
+    "overview": "Mindful is space for your thoughts, ideas and ongoing tasks. It works where you work. In every new tab.",
+    "type": "Chrome Extensions,Note and writing apps,Work & Productivity",
+    "url": "https://www.producthunt.com/products/mindful-chrome-extension"
+  },
+  {
+    "name": "MailClark",
+    "overview": "Optimize your teamwork by collectively managing your external communications directly in Slack or MS Teams",
+    "type": "Slack apps,Team collaboration software,Email clients",
+    "url": "https://www.producthunt.com/products/mailclark"
+  },
+  {
+    "name": "Twift",
+    "overview": "Twift makes sending bulk DMs on Twitter without wasting hours. This means you can do giveaways like (reply with \u201c\ud83d\udc4b'\u201d) and don't have to manually DM 100s of people.",
+    "type": "Twitter apps",
+    "url": "https://www.producthunt.com/products/twift"
+  },
+  {
+    "name": "Coupons at Checkout",
+    "overview": "",
+    "type": "Shopping,Automation tools,Chrome Extensions",
+    "url": "https://www.producthunt.com/products/coupons-at-checkout"
+  },
+  {
+    "name": "App Review Monitor",
+    "overview": "",
+    "type": "Slack apps,Customer support tools,Email clients",
+    "url": "https://www.producthunt.com/products/app-review-monitor"
+  },
+  {
+    "name": "Beaver Builder",
+    "overview": "",
+    "type": "Wordpress Plugins,Website builders,Landing page builders",
+    "url": "https://www.producthunt.com/products/beaver-builder"
+  },
+  {
+    "name": "Life on Twitter",
+    "overview": "",
+    "type": "Twitter apps,Social media management tools",
+    "url": "https://www.producthunt.com/products/life-on-twitter"
+  },
+  {
+    "name": "Sketch Palettes",
+    "overview": "",
+    "type": "Figma Plugins,Design resources,Interface design tools",
+    "url": "https://www.producthunt.com/products/sketch-palettes"
+  },
+  {
+    "name": "MailClark",
+    "overview": "",
+    "type": "Slack apps,Messaging apps,Team collaboration software",
+    "url": "https://www.producthunt.com/products/mailclark-2"
+  },
+  {
+    "name": "Facebook Computer Vision Tags",
+    "overview": "",
+    "type": "Chrome Extensions,AI Content Detection",
+    "url": "https://www.producthunt.com/products/facebook-computer-vision-tags"
+  },
+  {
+    "name": "500 Products",
+    "overview": "",
+    "type": "Marketplace sites,Product add-ons,Ecommerce platforms",
+    "url": "https://www.producthunt.com/products/500-products"
+  },
+  {
+    "name": "WordPress Plugin Stack",
+    "overview": "",
+    "type": "Wordpress Plugins",
+    "url": "https://www.producthunt.com/products/wordpress-plugin-stack"
+  },
+  {
+    "name": "Lungo",
+    "overview": "Lungo is a macOS app that prevents your Mac from falling asleep and your screen from dimming. This can be useful when, for example, doing a presentation at work or having a recipe open on your Mac while cooking.",
+    "type": "Product add-ons,Work & Productivity,Presentation Software",
+    "url": "https://www.producthunt.com/products/lungo"
+  },
+  {
+    "name": "Universal Word",
+    "overview": "\ud83d\ude44 Problem \ud83d\udc49When you're watching a video on YouTube which has a language subtitle you have to stop the video for each word you don't know. That can be annoying. \ud83d\udc49Youtube can translate the subtitle but often loses the meaning. \ud83c\udf8a\ud83c\udf89\ud83c\udf88 Solution \ud83d\udc49This extension translates words in the subtitles to multiple languages.",
+    "type": "Chrome Extensions,Language Learning,Video and Voice calling",
+    "url": "https://www.producthunt.com/products/universal-word"
+  },
+  {
+    "name": "LyrWP",
+    "overview": "I got sick and tired of reading blogs with spammy affiliate links promoting half backed WordPress themes, plugins and self promoting services. So I thought, make it simple, keep it simple. Readers can submit themes / plugins they rate and leave feedback on them.",
+    "type": "Wordpress themes",
+    "url": "https://www.producthunt.com/products/lyrwp"
+  },
+  {
+    "name": "Fonty",
+    "overview": "Fonty improve your work with web fonts and choose them in real site with real sizes and styles as created. You can compare the differences between web fonts rendering on all modern (desktop and mobile) browsers. You don\u2019t need access to your website code and you can try it with almost any site you know",
+    "type": "Design resources,Web browsers,Chrome Extensions",
+    "url": "https://www.producthunt.com/products/fonty"
+  },
+  {
+    "name": "Funkify",
+    "overview": "Funkify is an extension for Chrome that helps you experience the web and interfaces through the eyes of extreme users with different abilities and disabilities. It is being developed by a team of usability and accessibility experts in Sweden. Try Dyslexia Dani and Trembling Trevor.",
+    "type": "Chrome Extensions",
+    "url": "https://www.producthunt.com/products/funkify"
+  },
+  {
+    "name": "Suggested.co",
+    "overview": "Suggested (formerly Makerkit) helps companies collected feature requests from their customers. We also provide a product roadmap, and changelog.",
+    "type": "Project management software,Customer support tools,Product add-ons",
+    "url": "https://www.producthunt.com/products/suggested-co"
+  },
+  {
+    "name": "Spock",
+    "overview": "Spock is user-friendly absence management for your company. It is intuitive and you don't need to train any team member to use the app. Spock builds a simple and reliable process for leave tracking in your organization with focus on transparency and clarity.",
+    "type": "Slack apps",
+    "url": "https://www.producthunt.com/products/spock"
+  },
+  {
+    "name": "Really Good Questions",
+    "overview": "Really Good Questions is a hand curated showcase on curiosity from Twitter\u2019s most influential people. Get curious by searching for some of the best questions people asked on Twitter.",
+    "type": "Twitter apps,Social Networking,Social bookmarking",
+    "url": "https://www.producthunt.com/products/really-good-questions"
+  },
+  {
+    "name": "SEO Tool Extension",
+    "overview": "A handy little browser extension to access your favorite SEO tools and searches directly. It's deeplinks into the searches and checks - saving you copying the current URL around every time.",
+    "type": "Best SEO tools,Chrome Extensions",
+    "url": "https://www.producthunt.com/products/seo-tool-extension"
+  },
+  {
+    "name": "UpWorkee",
+    "overview": "Instant notifications about new Upwork jobs. An update could be up to once a minute, receive notifications via Telegram Bot or Google Chrome Extension, 1 search is Free. Upworkee is your chance to be among the first who applied!",
+    "type": "Job boards,Chrome Extensions",
+    "url": "https://www.producthunt.com/products/upworkee"
+  },
+  {
+    "name": "WPHelpful",
+    "overview": "WPHelpful is a WP plugin that lets you collect ratings (emoji, stars, yes/no) as well written feedback from your users for things like online courses, knowledge-bases, etc. This helps you know which content is the most valuable to your users.",
+    "type": "Wordpress Plugins",
+    "url": "https://www.producthunt.com/products/wphelpful"
+  },
+  {
+    "name": "Figma Product Planner",
+    "overview": "Product Planner makes the process more comfortable to get started, product planning, product insights, identifying risks, setting goals and identifying and solving problems. Use the prebuilt template relevant to your tasks.",
+    "type": "Project management software,Figma Templates,Design resources",
+    "url": "https://www.producthunt.com/products/figma-product-planner"
+  },
+  {
+    "name": "Doodlebug",
+    "overview": "Doodlebug is a new way for designers and developers to build great websites faster. Overlay designs from Figma in Chrome, and give developers a pixel-perfect guide to build against. Make it easy for your team to spot visual \"bugs\" with Doodlebug.",
+    "type": "Figma Plugins",
+    "url": "https://www.producthunt.com/products/doodlebug"
+  },
+  {
+    "name": "ThinkingTime for Slack",
+    "overview": "ThinkingTime is a Slack App that gives your team time to think. You use the App to post a question to your channel and then collect all responses to be released at the same time. Encourage better conversation and contribution\u2026 and thinking.",
+    "type": "Slack apps",
+    "url": "https://www.producthunt.com/products/thinkingtime-for-slack"
+  },
+  {
+    "name": "Twitter Profile Metrics",
+    "overview": "Adds metrics to profiles to give you more info on activity, engagement, quality & whether the account using bots & automation. - Tweets/retweets/replies per day - Retweets/favourites per tweet - Engagement tweet and follower score - Tweeting from sources",
+    "type": "Twitter apps",
+    "url": "https://www.producthunt.com/products/twitter-profile-metrics"
+  },
+  {
+    "name": "Figma to Code",
+    "overview": "Design to Code trend is getting bigger and bigger and plugins like Figma to Code are definitely useful. Figma To Code allows you to generate responsive pages/apps on Tailwind, Flutter & SwiftUI from your Figma designs.",
+    "type": "Figma Plugins",
+    "url": "https://www.producthunt.com/products/figma-to-code"
+  },
+  {
+    "name": "Lineage for Figma",
+    "overview": "Lineage is a Figma plugin that helps you understand how your design system is being used across your project and the impact every change will have on your designs.",
+    "type": "Figma Plugins",
+    "url": "https://www.producthunt.com/products/lineage-for-figma"
+  },
+  {
+    "name": "Say Less",
+    "overview": "Write shorter, more effective emails with our AI-powered summarization chrome extension. Works inside Gmail or on any passage of text.",
+    "type": "Writing assistants,Chrome Extensions,AI,Email clients",
+    "url": "https://www.producthunt.com/products/say-less"
+  },
+  {
+    "name": "Locker (Want Locker)",
+    "overview": "Locker is a social shopping tool and platform (with Google Chrome extension and new mobile app) that is revolutionizing how the everyday consumer shops online. We are building a platform that both autonomizes and automates the consumer shopping experience by providing a tool to make organized wish lists while using the data from our user base to provide a personalized product feed and recommendations based on their brand, price and style preferences.",
+    "type": "Shopping,Chrome Extensions,Social bookmarking",
+    "url": "https://www.producthunt.com/products/locker-34f91e54-51a5-4973-a6ca-addf30dcde83"
+  },
+  {
+    "name": "Your Week",
+    "overview": "Your Week is a simple weekly planner that I built to help me plan my priorities at the start of the week. It has a clear week-based layout and provides a helpful reminder to plan each week. Try it at https://yourweek.app or get the Android app.",
+    "type": "Notion Templates",
+    "url": "https://www.producthunt.com/products/your-week"
+  },
+  {
+    "name": "Social Image Generator",
+    "overview": "Social Image Generator is a WordPress plugin that automatically creates social share images for your content, increasing your social engagement and saving you hours of tedious work.",
+    "type": "Wordpress Plugins",
+    "url": "https://www.producthunt.com/products/social-image-generator"
+  },
+  {
+    "name": "HomeFitness OS",
+    "overview": "Everything you need to achieve your fitness goals: prefilled workout databases that are filterable by equipment & fitness levels, exercise & nutrition logging, calendars, and more.",
+    "type": "Notion Templates",
+    "url": "https://www.producthunt.com/products/homefitness-os"
+  },
+  {
+    "name": "Coupert",
+    "overview": "Coupert is a smart shopping assistant that leverages AI technology to help customers save money with features like automated coupon testing, cashback, price comparison, rewards, gift card support, and price tracking with alerts. With a database covering over 1 million brands and stores, Coupert offers an easy and efficient way to maximize savings. Customers can use Coupert\u2019s website, mobile app, or browser extension to find and apply the best deals.",
+    "type": "Shopping,Savings apps,Chrome Extensions",
+    "url": "https://www.producthunt.com/products/coupert"
+  },
+  {
+    "name": "Browser Kit for Figma",
+    "overview": "Browser Kit is a set of components for getting screenshots onto your Figma designs. Screenshots go from your browser directly into your design file, all thanks to the magic of Figma components. All major browsers supported; mobile and desktop included; Win/Mac",
+    "type": "Figma Plugins",
+    "url": "https://www.producthunt.com/products/browser-kit-for-figma"
+  },
+  {
+    "name": "Procreate Import for Figma",
+    "overview": "Import yourprocreate files into Figma, complete with named layers, groups, blend modes, and clipping masks.",
+    "type": "Figma Plugins,Design resources,Graphic design tools",
+    "url": "https://www.producthunt.com/products/procreate-import-for-figma"
+  },
+  {
+    "name": "Global Twitter Trends",
+    "overview": "Want to get twitter followers fast well you have to use the right hashtag. Global Twitter Trends allows us to watch and track twitter trends of the world as well as of 62 countries and 462 towns.",
+    "type": "Twitter apps",
+    "url": "https://www.producthunt.com/products/global-twitter-trends"
+  },
+  {
+    "name": "Notion Starter Pack",
+    "overview": "Notion is a great tool for many things. Start taking advantage of Notion without effort.",
+    "type": "Notion Templates",
+    "url": "https://www.producthunt.com/products/notion-starter-pack"
+  },
+  {
+    "name": "Text Volume",
+    "overview": "How much text is too much? The Text Volume plugin in Figma instantly shows you how much space your text is using in your app. You'll also get research-based insights about how much you *should* use.",
+    "type": "Figma Plugins",
+    "url": "https://www.producthunt.com/products/text-volume"
+  },
+  {
+    "name": "NoCode Chrome Extensions Builder",
+    "overview": "\u2713 No Code Required Our platform automatically creates a ready-to-publishzip package \u2713 Free Explore the possibilities. No credit card required \u2713 Instant Download Download the Chrome extension package as soon as you place your order",
+    "type": "Chrome Extensions",
+    "url": "https://www.producthunt.com/products/nocode-chrome-extensions-builder"
+  },
+  {
+    "name": "Notion Travel Dashboard",
+    "overview": "Forget spreadsheets, e-mails, booking sites and a dozen documents. This Notion travel template helps you plan, research and organise your trip. Start tracking everything in one place and move from clutter to clarity.",
+    "type": "Notion Templates",
+    "url": "https://www.producthunt.com/products/notion-travel-template"
+  },
+  {
+    "name": "GetTilo Slack App",
+    "overview": "GetTilo App creates personalised programmes focused on helping users reduce stress and improve their personal experience during working hours through a specific mix of coaching, mentoring and micro rest sessions.",
+    "type": "Slack apps",
+    "url": "https://www.producthunt.com/products/gettilo-slack-app"
+  },
+  {
+    "name": "Webflow Pricing Guide",
+    "overview": "Figuring out how to price your Webflow projects can be a pain. That's why with this notion guide you can have a better understanding of your client's struggles & needs when giving them a price estimate.",
+    "type": "Notion Templates",
+    "url": "https://www.producthunt.com/products/webflow-pricing-guide"
+  },
+  {
+    "name": "Fruition Plus",
+    "overview": "Fruition Plus is a collection of crowdsourced design templates, custom CSS style snippets, & more for Notion Websites made with the open source toolkit Fruition. At launch we offer 9 design themes & over 65 CSS snippets to beautify your Notion powered website.",
+    "type": "Notion Templates",
+    "url": "https://www.producthunt.com/products/fruition-plus"
+  },
+  {
+    "name": "CodelessCombos",
+    "overview": "CodelessMarket releases their first product launch called CodelessCombos, Startup packs made directly for Figma and Webflow. Gain access to the Webflow template in 24 hours. Each Webflow combo pack is build with Client First from FinSweet.",
+    "type": "Figma Templates",
+    "url": "https://www.producthunt.com/products/codelesscombos"
+  },
+  {
+    "name": "Supa Palette - Figma plugin",
+    "overview": "Supa Palette is an all-in-one palette editor/generator for modern designers. Easily create beautiful, harmonious and accessible-first palettes or export them for the most popular web frameworks & formats.",
+    "type": "Figma Plugins",
+    "url": "https://www.producthunt.com/products/supa-palette-figma-plugin"
+  },
+  {
+    "name": "Design Maestro",
+    "overview": "Design Maestro is a free extension for the Keyboard Maestro app. Save time on your boring daily tasks and focus on more important aspects of your design career.",
+    "type": "Automation tools,Design resources,Chrome Extensions",
+    "url": "https://www.producthunt.com/products/design-maestro"
+  },
+  {
+    "name": "Free Notion-style Icons",
+    "overview": "A beautiful pack of 50 free Notion-style icons that you can use in your websites, apps and Notion templates. \u2713 50 SVG and PNG icons \u2713 Fully scalable and customisable \u2713 Use on unlimited personal and commercial projects",
+    "type": "Notion Templates",
+    "url": "https://www.producthunt.com/products/free-notion-style-icons"
+  },
+  {
+    "name": "TransNotion",
+    "overview": "TransNotion is a Chrome Extension that translates your Notion page in 1-click\u261d\ufe0f \ud83d\udd01 Automatic sync between the original and translated pages \ud83c\udfa8 Translates a page without any change to the format \ud83c\udf0f Supports 26 languages by operating with DeepL API",
+    "type": "Chrome Extensions,Notion Templates,Language Learning",
+    "url": "https://www.producthunt.com/products/transnotion"
+  },
+  {
+    "name": "Encore",
+    "overview": "Encore is a Backend Development Engine, purpose-built for a flow state developer experience when creating cloud-based backend applications and APIs. Stop spending countless soul-crushing hours writing repetitive glue code. Start having fun again.",
+    "type": "Messaging apps,AI Chatbots,Slack apps",
+    "url": "https://www.producthunt.com/products/encore-3"
+  },
+  {
+    "name": "UI & UX Checklist",
+    "overview": "It'll lovely and helpful if you guys will check out my first template-product. I'll also be launching a condensed notion doc on culture creation and management in a startup inspired by Ben Horowitz soon. Thanks for supporting me guys.",
+    "type": "Notion Templates",
+    "url": "https://www.producthunt.com/products/ui-ux-checklist"
+  },
+  {
+    "name": "Company Culture Building Checklist",
+    "overview": "I'm back with culture building template guys as I promised Check it out \u27a1 This template has Employee management Engagement tools\ud83d\udee0 & Surveys build in. Also, content on employee management and retention is also included Thanks for supporting. \ud83d\ude4c",
+    "type": "Notion Templates",
+    "url": "https://www.producthunt.com/products/company-culture-building-checklist"
+  },
+  {
+    "name": "Sales OS",
+    "overview": "A kick-ass and aesthetic sales management system that centralizes all your clients, orders & products into your digital workspace.",
+    "type": "CRM software,Notion Templates,Lead generation software",
+    "url": "https://www.producthunt.com/products/sales-os"
+  },
+  {
+    "name": "This Person Does Not Exist for Sketch",
+    "overview": "Get unique AI-generated faces placeholders in Sketch. Free plugin.",
+    "type": "AI Headshot Generators,Design resources,Figma Plugins",
+    "url": "https://www.producthunt.com/products/this-person-does-not-exist-for-sketch"
+  },
+  {
+    "name": "ClipDrop Figma Plugin",
+    "overview": "Use the most advanced image processing tools from ClipDrop directly in Figma: Remove background, object, text, people or defects in 1 click. And automatically decompose images into multiple layers!",
+    "type": "Figma Plugins",
+    "url": "https://www.producthunt.com/products/clipdrop-figma-plugin"
   }
 ]
